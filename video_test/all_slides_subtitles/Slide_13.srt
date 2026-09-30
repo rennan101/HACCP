@@ -1,0 +1,68 @@
+1
+00:00:00,100 --> 00:00:02,840
+Principle Four requires effective monitoring.
+
+2
+00:00:03,420 --> 00:00:06,680
+In our dairy facility, we don't guess—we measure.
+
+3
+00:00:07,290 --> 00:00:11,900
+All CCP monitoring observations must match live production records
+
+4
+00:00:11,900 --> 00:00:14,890
+and provide immediate, accurate feedback.
+
+5
+00:00:15,490 --> 00:00:18,950
+If a temperature drops below a critical limit—for example,
+
+6
+00:00:18,950 --> 00:00:23,460
+if a pasteuriser temperature drops below seventy-two degrees—the automated
+
+7
+00:00:23,460 --> 00:00:25,920
+flow divert valve must trigger immediately,
+
+8
+00:00:25,920 --> 00:00:28,940
+and the operator must notify the Technical and Quality
+
+9
+00:00:28,940 --> 00:00:30,300
+team without delay.
+
+10
+00:00:30,900 --> 00:00:34,490
+A formal Non-Conformance and Incident Report must be raised
+
+11
+00:00:34,490 --> 00:00:35,370
+on the spot.
+
+12
+00:00:36,020 --> 00:00:40,400
+Alongside CCP monitoring, we conduct Environmental Monitoring.
+
+13
+00:00:40,960 --> 00:00:44,970
+This involves regular microbiological swab testing of surfaces,
+
+14
+00:00:45,010 --> 00:00:49,150
+drains, and air to verify Good Manufacturing Practices and
+
+15
+00:00:49,150 --> 00:00:53,450
+eradicate harborage sites for environmental pathogens like Listeria.
+
+16
+00:00:54,060 --> 00:00:56,360
+The frequency of testing is risk-based,
+
+17
+00:00:56,360 --> 00:00:59,400
+determined by the HACCP team's risk assessment.
+

@@ -1,0 +1,60 @@
+1
+00:00:00,100 --> 00:00:02,280
+Before a HACCP plan can succeed,
+
+2
+00:00:02,320 --> 00:00:07,730
+the manufacturing facility must have strong Prerequisite Programmes—or PRPs.
+
+3
+00:00:07,870 --> 00:00:12,370
+PRPs are the foundational environmental and operational hygiene conditions
+
+4
+00:00:12,370 --> 00:00:14,710
+necessary for producing safe food.
+
+5
+00:00:15,310 --> 00:00:18,380
+They manage general baseline hazards so that our HACCP
+
+6
+00:00:18,380 --> 00:00:21,660
+team can focus on specific Critical Control Points.
+
+7
+00:00:22,320 --> 00:00:24,430
+There are seven key PRP pillars:
+
+8
+00:00:24,430 --> 00:00:29,740
+One: Cleaning and Sanitation—routine CIP and deep-cleaning schedules.
+
+9
+00:00:30,390 --> 00:00:34,600
+Two: Personal Hygiene—clothing standards, health monitoring,
+
+10
+00:00:34,600 --> 00:00:39,190
+and hairnets. Three: Pest Control—professional baiting,
+
+11
+00:00:39,190 --> 00:00:41,390
+monitoring, and insect screens.
+
+12
+00:00:42,020 --> 00:00:47,000
+Four: Equipment and Premises Maintenance—preventive engineering routines.
+
+13
+00:00:47,640 --> 00:00:52,550
+Five: Supplier Control—auditing and approving dairy farms and ingredient
+
+14
+00:00:52,550 --> 00:00:58,270
+vendors. Six: Allergen Management—strict segregation and scheduling.
+
+15
+00:00:58,860 --> 00:01:04,470
+And Seven: Staff Training—ensuring every colleague understands food safety.
+

@@ -1,0 +1,64 @@
+1
+00:00:00,100 --> 00:00:03,940
+To prevent cross-contamination, our dairy plant is divided into
+
+2
+00:00:03,940 --> 00:00:07,250
+distinct hygiene zones: Low-Risk, High-Care,
+
+3
+00:00:07,250 --> 00:00:08,760
+and High-Risk areas.
+
+4
+00:00:09,430 --> 00:00:13,680
+All packaging, ingredients, and utensils must be sanitised before
+
+5
+00:00:13,680 --> 00:00:16,160
+entering High-Care and High-Risk rooms.
+
+6
+00:00:16,820 --> 00:00:20,650
+Personal mobile phones are permitted for authorised personnel only
+
+7
+00:00:20,650 --> 00:00:23,680
+and MUST be thoroughly sanitised at the hygiene airlock
+
+8
+00:00:23,680 --> 00:00:26,890
+before entry. For tablets, pens,
+
+9
+00:00:26,890 --> 00:00:30,300
+clipboards, and electrical equipment that cannot be immersed in
+
+10
+00:00:30,300 --> 00:00:33,110
+water, use approved sanitising wipes.
+
+11
+00:00:33,760 --> 00:00:36,920
+We also maintain a strict pen colour-coding system:
+
+12
+00:00:37,100 --> 00:00:40,400
+Green Pens are used exclusively in High-Risk areas;
+
+13
+00:00:40,540 --> 00:00:43,640
+Red Pens are used exclusively in High-Care areas;
+
+14
+00:00:43,640 --> 00:00:47,280
+and Blue Pens are used exclusively in Low-Risk areas.
+
+15
+00:00:48,290 --> 00:00:52,620
+Never carry stationery or tools between zones without decontaminating
+
+16
+00:00:52,620 --> 00:00:53,360
+them.
+

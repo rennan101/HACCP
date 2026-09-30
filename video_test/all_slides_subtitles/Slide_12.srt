@@ -1,0 +1,52 @@
+1
+00:00:00,100 --> 00:00:02,720
+Continuing with our operational CCPs:
+
+2
+00:00:02,730 --> 00:00:07,030
+To prevent microbiological regrowth, rapid chilling is essential.
+
+3
+00:00:07,600 --> 00:00:11,120
+Following thermal treatment, pasteurised dairy bases,
+
+4
+00:00:11,240 --> 00:00:14,420
+liquid creams, and fresh cheese curds must be chilled
+
+5
+00:00:14,420 --> 00:00:18,270
+below eight degrees Celsius—and ideally below four degrees Celsius—within
+
+6
+00:00:18,710 --> 00:00:22,880
+ninety minutes. Moving quickly through the temperature danger zone
+
+7
+00:00:22,880 --> 00:00:27,190
+prevents spore-forming bacteria such as Bacillus cereus from germinating
+
+8
+00:00:27,190 --> 00:00:31,010
+and multiplying. Finally, at the packaging end of our
+
+9
+00:00:31,010 --> 00:00:35,090
+lines, we control physical hazards with inline Metal Detectors.
+
+10
+00:00:35,730 --> 00:00:39,510
+CCP Four monitors our packed dairy lines—such as block
+
+11
+00:00:39,510 --> 00:00:43,700
+cheese, yogurt pots, and dairy desserts—checking for ferrous,
+
+12
+00:00:43,700 --> 00:00:47,700
+non-ferrous, and stainless steel contamination before products are boxed
+
+13
+00:00:47,700 --> 00:00:48,960
+and dispatched.
+

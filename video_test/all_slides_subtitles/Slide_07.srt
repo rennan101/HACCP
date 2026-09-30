@@ -1,0 +1,100 @@
+1
+00:00:00,100 --> 00:00:02,610
+Let's walk through the Seven Principles of HACCP in
+
+2
+00:00:02,610 --> 00:00:07,080
+detail. Principle One: Conduct a Hazard Analysis.
+
+3
+00:00:07,750 --> 00:00:10,880
+We examine every single step in our dairy process
+
+4
+00:00:10,880 --> 00:00:14,170
+to identify biological, chemical, physical,
+
+5
+00:00:14,170 --> 00:00:15,600
+and allergen hazards.
+
+6
+00:00:16,240 --> 00:00:19,300
+Principle Two: Determine Critical Control Points,
+
+7
+00:00:19,300 --> 00:00:22,990
+or CCPs. These are the specific steps where a
+
+8
+00:00:22,990 --> 00:00:25,350
+control measure is essential to prevent,
+
+9
+00:00:25,350 --> 00:00:28,860
+eliminate, or reduce a hazard to an acceptable level.
+
+10
+00:00:29,420 --> 00:00:32,200
+Principle Three: Establish Critical Limits.
+
+11
+00:00:32,880 --> 00:00:37,700
+We define measurable boundaries—such as minimum pasteurisation temperatures and
+
+12
+00:00:37,700 --> 00:00:41,750
+holding times—that separate safe food from unsafe food.
+
+13
+00:00:42,350 --> 00:00:45,420
+Principle Four: Establish Monitoring Procedures.
+
+14
+00:00:46,070 --> 00:00:49,460
+We set up continuous or scheduled checks to confirm
+
+15
+00:00:49,460 --> 00:00:53,200
+that every CCP stays strictly within its critical limits.
+
+16
+00:00:53,880 --> 00:00:57,080
+Principle Five: Establish Corrective Actions.
+
+17
+00:00:57,730 --> 00:00:59,770
+If monitoring shows a deviation,
+
+18
+00:00:59,770 --> 00:01:04,050
+we execute immediate, predefined actions to regain control and
+
+19
+00:01:04,050 --> 00:01:06,150
+isolate non-compliant product.
+
+20
+00:01:06,730 --> 00:01:10,160
+Principle Six: Establish Verification Procedures.
+
+21
+00:01:10,800 --> 00:01:14,790
+Through audits, calibrations, and microbiological tests,
+
+22
+00:01:14,820 --> 00:01:18,000
+we verify that our HACCP system is working effectively.
+
+23
+00:01:18,570 --> 00:01:21,650
+And Principle Seven: Establish Record-Keeping.
+
+24
+00:01:22,230 --> 00:01:26,190
+We maintain clear, tamper-proof logs and documents proving our
+
+25
+00:01:26,190 --> 00:01:28,950
+safety controls have operated correctly.
+

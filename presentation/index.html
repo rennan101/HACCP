@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HACCP Level 2 Interactive Presentation Masterclass</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Audio Elements -->
+  <audio id="voice-audio" preload="auto"></audio>
+  <audio id="bg-audio" loop preload="auto" src="assets/audio/upbeat_bg_music.wav"></audio>
+
+  <!-- 16:9 Presentation Stage Viewport -->
+  <main id="viewport">
+    <div id="stage">
+      <div class="stage-top-bar"></div>
+      <div class="stage-header">
+        <div id="stage-category" class="stage-category">HACCP Level 2 Training</div>
+        <div id="stage-title" class="stage-title">Welcome &amp; Course Overview</div>
+        <div id="stage-subtitle" class="stage-subtitle">Essential food safety management standards tailored for food and dairy processing</div>
+      </div>
+      <div id="stage-content" class="stage-content">
+        <!-- Dynamic slide content will be rendered here by app.js -->
+      </div>
+      <div class="stage-footer">
+        <div>HACCP Level 2 Food Safety &amp; Dairy Processing Masterclass</div>
+        <div id="stage-counter">Slide 01 / 26</div>
+      </div>
+      <div id="subtitles-overlay" class="is-hidden"></div>
+    </div>
+  </main>
+
+  <!-- Footer Controls Bar (Professional SVG Icons) -->
+  <footer id="controls-bar" class="site-footer">
+
+    <!-- LEFT: Brand + Playback -->
+    <div class="controls-left">
+      <div class="header-brand" title="HACCP Level 2 Food &amp; Dairy Processing">
+        <svg class="svg-icon brand-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        <span class="brand-text">HACCP <span class="brand-sub">L2</span></span>
+      </div>
+      <div class="playback-btn-group">
+        <button id="prev-btn" class="ctrl-icon-btn" title="Previous Slide (←)" aria-label="Previous Slide">
+          <svg class="svg-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6 6h2v12H6zm3.5 6l8.5 6V6z"/></svg>
+        </button>
+        <button id="play-btn" class="ctrl-icon-btn btn-play" title="Play (Space)" aria-label="Play / Pause">
+          <svg class="svg-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+        </button>
+        <button id="next-btn" class="ctrl-icon-btn" title="Next Slide (→)" aria-label="Next Slide">
+          <svg class="svg-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
+        </button>
+      </div>
+      <select id="slide-select" class="slide-select" title="Jump to Slide">
+        <!-- Populated dynamically -->
+      </select>
+    </div>
+
+    <!-- CENTER: Progress bar -->
+    <div class="controls-center">
+      <div class="progress-container">
+        <span id="time-display" class="time-display">00:00 / 00:00</span>
+        <div class="progress-bar-bg" title="Click or drag to seek">
+          <div id="progress-fill" class="progress-bar-fill"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT: Volume + Toggles -->
+    <div class="controls-right">
+      <!-- Volume control -->
+      <div class="volume-group" title="Voice volume">
+        <button id="volume-mute-btn" class="ctrl-icon-btn" aria-label="Mute / Unmute Voice">
+          <svg class="svg-icon" id="vol-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"/>
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"/>
+          </svg>
+        </button>
+        <input id="volume-slider" class="vol-slider" type="range" min="0" max="1" step="0.02" value="1" aria-label="Voice Volume">
+      </div>
+
+      <button id="subtitles-toggle-btn" class="ctrl-icon-btn is-active" title="Toggle Subtitles (C)" aria-label="Toggle Subtitles">
+        <svg class="svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 6a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V6z"/>
+          <path d="M10 9a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h1"/>
+          <path d="M16 9a2 2 0 0 0-2 2v2a2 2 0 0 0 2 2h1"/>
+        </svg>
+      </button>
+      <button id="music-toggle-btn" class="ctrl-icon-btn is-active" title="Toggle Background Music" aria-label="Toggle Music">
+        <svg class="svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M9 18V5l12-2v13"/><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/>
+        </svg>
+      </button>
+      <button id="fullscreen-btn" class="ctrl-icon-btn" title="Fullscreen (F)" aria-label="Toggle Fullscreen">
+        <svg class="svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/>
+        </svg>
+      </button>
+      <button id="export-btn" class="ctrl-icon-btn btn-export" title="Export ZIP (MP4 + SRT)" aria-label="Export Course Package">
+        <svg class="svg-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+          <polyline points="7 10 12 15 17 10"/>
+          <line x1="12" y1="15" x2="12" y2="3"/>
+        </svg>
+      </button>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="slides_data.js"></script>
+  <script src="renderers.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,88 @@
+1
+00:00:00,100 --> 00:00:03,820
+Let's explore Biological Hazards and our Key Performance Indicators
+
+2
+00:00:03,820 --> 00:00:06,930
+for dairy products—including pasteurised milk,
+
+3
+00:00:06,930 --> 00:00:09,420
+cream, cheese, and yogurt bases.
+
+4
+00:00:10,020 --> 00:00:14,960
+We test every production batch against strict microbiological specifications:
+
+5
+00:00:14,960 --> 00:00:19,630
+For Total Viable Count—or TVC—our target is less than
+
+6
+00:00:19,630 --> 00:00:22,160
+five thousand colony-forming units per gram,
+
+7
+00:00:22,190 --> 00:00:25,160
+with an absolute rejection threshold at ten thousand.
+
+8
+00:00:25,700 --> 00:00:30,730
+For Presumptive Enterobacteriaceae—our hygiene indicator—the target is less
+
+9
+00:00:30,730 --> 00:00:33,450
+than twenty per gram, and anything at twenty or
+
+10
+00:00:33,450 --> 00:00:34,870
+above is rejected.
+
+11
+00:00:35,420 --> 00:00:39,120
+For Presumptive Staphylococcus aureus, our target is less than
+
+12
+00:00:39,120 --> 00:00:42,340
+twenty per gram, rejected at twenty or above.
+
+13
+00:00:42,920 --> 00:00:46,290
+For Salmonella species, the standard is absolute:
+
+14
+00:00:46,520 --> 00:00:48,490
+Absent in twenty-five grams.
+
+15
+00:00:49,120 --> 00:00:53,250
+Any presence triggers an immediate batch rejection and investigation.
+
+16
+00:00:53,880 --> 00:00:57,920
+For Listeria monocytogenes, the standard is equally strict:
+
+17
+00:00:58,110 --> 00:01:00,080
+Absent in twenty-five grams.
+
+18
+00:01:00,710 --> 00:01:02,730
+And for Presumptive Bacillus cereus,
+
+19
+00:01:02,940 --> 00:01:05,570
+our target is less than one hundred per gram,
+
+20
+00:01:05,570 --> 00:01:08,560
+with rejection at greater than five hundred per gram.
+
+21
+00:01:09,130 --> 00:01:11,490
+Can you name the top three pathogens we work
+
+22
+00:01:11,490 --> 00:01:14,540
+hardest to exclude from dairy environments?
+

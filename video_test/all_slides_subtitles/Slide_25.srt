@@ -1,0 +1,64 @@
+1
+00:00:00,100 --> 00:00:03,330
+Developing and maintaining HACCP requires teamwork.
+
+2
+00:00:03,940 --> 00:00:07,800
+A HACCP Team is a multidisciplinary group comprising operations,
+
+3
+00:00:07,800 --> 00:00:11,520
+quality assurance, engineering, and hygiene specialists.
+
+4
+00:00:12,180 --> 00:00:14,640
+Whenever an out-of-specification event occurs,
+
+5
+00:00:14,640 --> 00:00:19,050
+immediate action is required: place the affected product ON-HOLD
+
+6
+00:00:19,050 --> 00:00:20,870
+with physical quarantine tags.
+
+7
+00:00:21,580 --> 00:00:25,330
+The Technical and Quality team will investigate and determine
+
+8
+00:00:25,330 --> 00:00:28,380
+whether the product can be safely reprocessed or must
+
+9
+00:00:28,380 --> 00:00:32,320
+be destroyed. Remember: Food safety is not just the
+
+10
+00:00:32,320 --> 00:00:36,750
+Quality department's job—it is a shared responsibility across every
+
+11
+00:00:36,750 --> 00:00:38,030
+single team member.
+
+12
+00:00:38,600 --> 00:00:42,520
+Under UK food law, any individual employee who knowingly
+
+13
+00:00:42,520 --> 00:00:47,170
+breaches hygiene regulations or falsifies records can be held
+
+14
+00:00:47,170 --> 00:00:50,660
+personally legally accountable for foodborne illness outbreaks.
+
+15
+00:00:51,570 --> 00:00:54,260
+Let us take pride in keeping our dairy products
+
+16
+00:00:54,260 --> 00:00:57,240
+safe and our reputation uncompromised.
+

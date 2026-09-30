@@ -1,0 +1,68 @@
+1
+00:00:00,100 --> 00:00:03,690
+Food safety isn't just best practice—it is the law.
+
+2
+00:00:04,310 --> 00:00:07,810
+The foundational benchmark is the Codex Alimentarius,
+
+3
+00:00:07,860 --> 00:00:11,730
+established jointly by the Food and Agriculture Organisation and
+
+4
+00:00:11,730 --> 00:00:13,700
+the World Health Organisation.
+
+5
+00:00:14,300 --> 00:00:18,270
+Codex sets global baseline food hygiene standards to protect
+
+6
+00:00:18,270 --> 00:00:21,900
+consumer health and facilitate fair international trade.
+
+7
+00:00:22,490 --> 00:00:24,490
+A helpful way to think about this is:
+
+8
+00:00:24,960 --> 00:00:27,870
+Codex defines what the hygiene requirements are,
+
+9
+00:00:27,960 --> 00:00:31,190
+while HACCP provides the practical how-to framework to achieve
+
+10
+00:00:31,190 --> 00:00:32,900
+them in our dairy facility.
+
+11
+00:00:33,440 --> 00:00:37,050
+In the UK, this is made mandatory under Regulation
+
+12
+00:00:37,200 --> 00:00:42,380
+(EC) 852/2004. Environmental Health
+
+13
+00:00:42,380 --> 00:00:46,600
+Officers, or EHOs, inspect food facilities regularly.
+
+14
+00:00:47,180 --> 00:00:49,980
+If a food business fails to implement or maintain
+
+15
+00:00:49,980 --> 00:00:53,460
+an effective HACCP plan, the EHO possesses the statutory
+
+16
+00:00:53,460 --> 00:00:55,380
+power to issue heavy fines,
+
+17
+00:00:55,380 --> 00:01:00,120
+initiate criminal prosecution, or shut the facility down immediately.
+

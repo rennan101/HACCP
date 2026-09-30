@@ -1,0 +1,64 @@
+1
+00:00:00,100 --> 00:00:02,110
+In our dairy processing facility,
+
+2
+00:00:02,110 --> 00:00:05,350
+Milk is our primary raw material and product allergen,
+
+3
+00:00:05,360 --> 00:00:07,420
+present across all our fresh milk,
+
+4
+00:00:07,420 --> 00:00:09,820
+butter, cheese, and yogurt lines.
+
+5
+00:00:10,510 --> 00:00:12,930
+However, when we produce flavoured yogurts,
+
+6
+00:00:12,930 --> 00:00:15,450
+desserts, or composite cheese blends,
+
+7
+00:00:15,520 --> 00:00:17,930
+additional allergens enter our facility.
+
+8
+00:00:18,480 --> 00:00:22,130
+For example: Cereals containing gluten are handled in our
+
+9
+00:00:22,130 --> 00:00:24,810
+layered dairy crumb pots; Egg is used in our
+
+10
+00:00:24,810 --> 00:00:26,910
+custard and baked dessert recipes;
+
+11
+00:00:26,940 --> 00:00:30,200
+Soy lecithin is present in chocolate dairy coatings;
+
+12
+00:00:30,210 --> 00:00:33,250
+and Sulphites may be found in dried fruit preparations
+
+13
+00:00:33,250 --> 00:00:34,450
+for yogurt toppings.
+
+14
+00:00:35,200 --> 00:00:38,760
+We must strictly segregate these ingredients to prevent allergen
+
+15
+00:00:38,760 --> 00:00:42,640
+cross-contact. Can you list all the allergens handled in
+
+16
+00:00:42,640 --> 00:00:45,020
+your specific production department?
+

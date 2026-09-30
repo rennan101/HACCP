@@ -1,0 +1,56 @@
+1
+00:00:00,100 --> 00:00:02,480
+Take a brief moment to reflect on your daily
+
+2
+00:00:02,480 --> 00:00:06,770
+routine. Can you identify the specific Critical Control Points
+
+3
+00:00:06,770 --> 00:00:08,590
+in your immediate work area?
+
+4
+00:00:09,140 --> 00:00:12,910
+For instance, if you operate our milk pasteurisation plant,
+
+5
+00:00:12,950 --> 00:00:15,730
+do you know your exact critical temperature and divert
+
+6
+00:00:15,730 --> 00:00:16,970
+valve set points?
+
+7
+00:00:17,620 --> 00:00:20,020
+If you work in cheese packing or powdered dairy
+
+8
+00:00:20,020 --> 00:00:22,710
+lines, do you know the sensitivity limits of the
+
+9
+00:00:22,710 --> 00:00:25,110
+metal detector at the end of the line?
+
+10
+00:00:25,670 --> 00:00:28,350
+If you are ever unsure of how many CCPs
+
+11
+00:00:28,350 --> 00:00:31,550
+exist in your operational zone or what their critical
+
+12
+00:00:31,550 --> 00:00:35,130
+limits are, speak with your shift supervisor or quality
+
+13
+00:00:35,130 --> 00:00:39,320
+team immediately. Food safety starts with knowing your control
+
+14
+00:00:39,320 --> 00:00:41,100
+points inside out.
+

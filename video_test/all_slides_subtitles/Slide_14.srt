@@ -1,0 +1,60 @@
+1
+00:00:00,100 --> 00:00:02,600
+Let's look at Chemical Hazard management.
+
+2
+00:00:03,230 --> 00:00:08,230
+In a dairy plant, extensive Clean-In-Place (CIP) systems and
+
+3
+00:00:08,230 --> 00:00:11,590
+open plant sanitisation are carried out every day.
+
+4
+00:00:12,250 --> 00:00:15,350
+To avoid chemical contamination of our dairy products,
+
+5
+00:00:15,350 --> 00:00:19,460
+worktops, pipework, and equipment must only be cleaned using
+
+6
+00:00:19,460 --> 00:00:21,950
+chemicals from company-approved suppliers.
+
+7
+00:00:22,610 --> 00:00:26,190
+You must strictly follow the Cleaning Instruction Cards—known as
+
+8
+00:00:26,190 --> 00:00:30,990
+CICs. Ensure you use the exact chemical concentration,
+
+9
+00:00:30,990 --> 00:00:34,250
+correct water temperature, and required contact time,
+
+10
+00:00:34,250 --> 00:00:37,240
+using designated, approved cleaning tools.
+
+11
+00:00:37,890 --> 00:00:41,740
+Please take note: abrasive sponges and wire scouring pads
+
+12
+00:00:41,740 --> 00:00:43,740
+are strictly prohibited on site,
+
+13
+00:00:43,990 --> 00:00:46,920
+as they break apart and introduce both chemical and
+
+14
+00:00:46,920 --> 00:00:50,520
+physical hazards. Do you know who our approved chemical
+
+15
+00:00:50,520 --> 00:00:52,770
+suppliers are for your department?
+

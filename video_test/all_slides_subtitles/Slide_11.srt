@@ -1,0 +1,80 @@
+1
+00:00:00,100 --> 00:00:03,690
+Let's examine how CCPs work in practice within our
+
+2
+00:00:03,690 --> 00:00:05,440
+dairy processing facility.
+
+3
+00:00:05,990 --> 00:00:08,610
+First, consider Physical Hazard Control:
+
+4
+00:00:08,610 --> 00:00:12,350
+CCP One is our In-line Raw Milk Filtration and
+
+5
+00:00:12,350 --> 00:00:16,580
+Clarification system, equipped with fine filtration at one thousand
+
+6
+00:00:16,580 --> 00:00:20,320
+microns. This removes extraneous farm debris,
+
+7
+00:00:20,320 --> 00:00:24,850
+sediment, or particulate matter before raw milk enters processing.
+
+8
+00:00:25,420 --> 00:00:29,310
+Next, consider Pathogen Elimination through Thermal Processing:
+
+9
+00:00:29,310 --> 00:00:32,980
+CCP Two is our Continuous Milk Pasteuriser:
+
+10
+00:00:33,240 --> 00:00:36,490
+whole and skimmed milk must achieve a High-Temperature Short-Time
+
+11
+00:00:36,490 --> 00:00:40,200
+pasteurisation temperature greater than seventy-two degrees Celsius with a
+
+12
+00:00:40,200 --> 00:00:43,950
+validated holding time of at least fifteen seconds—or greater
+
+13
+00:00:43,950 --> 00:00:46,670
+than seventy-two degrees Celsius for two and a half
+
+14
+00:00:46,670 --> 00:00:49,410
+minutes in specialist dairy batch pasteurisers.
+
+15
+00:00:50,080 --> 00:00:53,490
+This thermal kill step destroys vegetative pathogens such as
+
+16
+00:00:53,490 --> 00:00:55,960
+Listeria, Salmonella, and E.
+
+17
+00:00:55,960 --> 00:01:00,850
+coli. For our thermal batch processing lines—such as cultured
+
+18
+00:01:00,850 --> 00:01:05,480
+dairy dessert bases and cheese curds—CCP Three enforces cooking
+
+19
+00:01:05,480 --> 00:01:08,560
+and heat treatment at greater than eighty-six degrees Celsius
+
+20
+00:01:08,560 --> 00:01:12,670
+for twenty minutes to achieve target microbiological reduction.
+

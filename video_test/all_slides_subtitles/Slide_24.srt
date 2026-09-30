@@ -1,0 +1,84 @@
+1
+00:00:00,100 --> 00:00:02,350
+What happens when something goes wrong?
+
+2
+00:00:03,000 --> 00:00:05,780
+That is where Corrective Actions come into play.
+
+3
+00:00:06,440 --> 00:00:09,650
+A corrective action is a specific procedure taken when
+
+4
+00:00:09,650 --> 00:00:13,060
+monitoring shows that a CCP has deviated from its
+
+5
+00:00:13,060 --> 00:00:16,090
+critical limit. It has three aims:
+
+6
+00:00:16,120 --> 00:00:18,350
+bring the process back under control,
+
+7
+00:00:18,350 --> 00:00:21,300
+determine the root cause, and prevent recurrence.
+
+8
+00:00:21,950 --> 00:00:25,770
+For example, if a pasteuriser temperature drops below seventy-two
+
+9
+00:00:25,770 --> 00:00:29,540
+degrees Celsius, the diverter automatically returns the milk to
+
+10
+00:00:29,540 --> 00:00:30,730
+the balance tank.
+
+11
+00:00:31,320 --> 00:00:33,120
+The operator logs the incident,
+
+12
+00:00:33,120 --> 00:00:37,420
+quarantines any suspect product, and investigates the steam supply
+
+13
+00:00:37,420 --> 00:00:38,810
+or heat exchanger.
+
+14
+00:00:39,370 --> 00:00:43,400
+We utilise the PDCA quality cycle to continuously refine
+
+15
+00:00:43,400 --> 00:00:47,430
+our HACCP plan: Plan: Conduct hazard analyses and set
+
+16
+00:00:47,430 --> 00:00:50,960
+critical limits. Do: Implement controls,
+
+17
+00:00:50,960 --> 00:00:53,750
+train teams, and execute routines.
+
+18
+00:00:54,400 --> 00:00:58,050
+Check: Monitor CCPs, review thermograph charts,
+
+19
+00:00:58,050 --> 00:00:59,350
+and run audits.
+
+20
+00:01:00,000 --> 00:01:03,490
+Act: Standardise fixes, update procedures,
+
+21
+00:01:03,490 --> 00:01:05,780
+and prevent repeat deviations.
+

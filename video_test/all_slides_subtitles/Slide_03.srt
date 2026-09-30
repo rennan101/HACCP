@@ -1,0 +1,68 @@
+1
+00:00:00,100 --> 00:00:02,150
+So, what exactly is HACCP?
+
+2
+00:00:02,700 --> 00:00:06,140
+HACCP stands for Hazard Analysis Critical Control Point.
+
+3
+00:00:06,750 --> 00:00:09,920
+At its heart, it is an internationally recognised,
+
+4
+00:00:09,920 --> 00:00:13,420
+science-based food safety management system designed to do three
+
+5
+00:00:13,420 --> 00:00:17,830
+things: prevent, reduce, or eliminate hazards in food before
+
+6
+00:00:17,830 --> 00:00:19,470
+they ever reach a consumer.
+
+7
+00:00:20,070 --> 00:00:22,960
+Think about how traditional food quality used to work
+
+8
+00:00:22,960 --> 00:00:27,330
+decades ago—people relied heavily on testing finished products after
+
+9
+00:00:27,330 --> 00:00:29,340
+they were already made and packaged.
+
+10
+00:00:29,920 --> 00:00:32,800
+But end-product testing is like locking the stable door
+
+11
+00:00:32,800 --> 00:00:34,520
+after the horse has bolted.
+
+12
+00:00:35,060 --> 00:00:37,070
+HACCP completely shifts the focus:
+
+13
+00:00:37,070 --> 00:00:40,200
+it builds safety directly into every stage of the
+
+14
+00:00:40,200 --> 00:00:44,680
+production process. Under Codex Alimentarius guidelines,
+
+15
+00:00:44,710 --> 00:00:47,300
+HACCP operates on seven core principles,
+
+16
+00:00:47,300 --> 00:00:50,740
+starting from hazard analysis right through to record-keeping,
+
+17
+00:00:50,740 --> 00:00:54,850
+ensuring that potential issues are tackled proactively at source.
+

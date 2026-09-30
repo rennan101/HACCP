@@ -1,0 +1,76 @@
+1
+00:00:00,100 --> 00:00:02,310
+Now let's focus on Principle Two:
+
+2
+00:00:02,310 --> 00:00:04,600
+Determining Critical Control Points.
+
+3
+00:00:05,270 --> 00:00:07,820
+A CCP is not just any control point in
+
+4
+00:00:07,820 --> 00:00:09,690
+the factory—it is a point,
+
+5
+00:00:09,690 --> 00:00:13,010
+step, or procedure where control can be applied,
+
+6
+00:00:13,010 --> 00:00:16,100
+and is completely essential to prevent or eliminate a
+
+7
+00:00:16,100 --> 00:00:18,710
+significant food safety hazard or reduce it to an
+
+8
+00:00:18,710 --> 00:00:22,630
+acceptable level. To determine CCPs accurately,
+
+9
+00:00:22,630 --> 00:00:24,630
+we follow a rigorous six-step method:
+
+10
+00:00:24,630 --> 00:00:27,670
+First, we map out a detailed processing flow of
+
+11
+00:00:27,670 --> 00:00:29,290
+the entire dairy line.
+
+12
+00:00:29,880 --> 00:00:33,230
+Second, we perform a thorough hazard analysis at every
+
+13
+00:00:33,230 --> 00:00:38,180
+single step. Third, we apply the standardised Codex CCP
+
+14
+00:00:38,180 --> 00:00:42,830
+Decision Tree. Fourth, we determine which steps qualify as
+
+15
+00:00:42,830 --> 00:00:44,640
+true Critical Control Points.
+
+16
+00:00:45,320 --> 00:00:48,390
+Fifth, we categorise the hazard by type of control—whether
+
+17
+00:00:48,800 --> 00:00:52,410
+microbiological, physical, chemical, or allergen.
+
+18
+00:00:53,000 --> 00:00:56,670
+And sixth, we establish strict critical limits and monitoring
+
+19
+00:00:56,670 --> 00:00:58,250
+routines for each.
+

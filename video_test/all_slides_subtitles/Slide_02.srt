@@ -1,0 +1,68 @@
+1
+00:00:00,100 --> 00:00:02,440
+Our primary aim today is twofold:
+
+2
+00:00:02,440 --> 00:00:05,880
+to summarise the HACCP system comprehensively and to review
+
+3
+00:00:05,880 --> 00:00:09,060
+how Critical Control Points function in our daily dairy
+
+4
+00:00:09,060 --> 00:00:12,550
+processing operations. Throughout this session,
+
+5
+00:00:12,550 --> 00:00:15,140
+we will cover the fundamental definition of HACCP,
+
+6
+00:00:15,140 --> 00:00:16,710
+the origins of the standard,
+
+7
+00:00:16,710 --> 00:00:19,070
+and the types of food hazards you might encounter
+
+8
+00:00:19,070 --> 00:00:22,900
+on site. We will examine key UK and European
+
+9
+00:00:22,900 --> 00:00:27,160
+regulations, break down the seven foundational principles of HACCP,
+
+10
+00:00:27,230 --> 00:00:31,120
+and discover exactly how Critical Control Points are determined
+
+11
+00:00:31,120 --> 00:00:33,030
+using structured decision trees.
+
+12
+00:00:33,990 --> 00:00:37,420
+We will also explore dairy-specific CCP examples,
+
+13
+00:00:37,420 --> 00:00:41,190
+monitoring routines, chemical, physical, biological,
+
+14
+00:00:41,190 --> 00:00:44,180
+and allergen controls, prerequisite programmes,
+
+15
+00:00:44,180 --> 00:00:47,800
+proper food safety attitude, corrective action plans via the
+
+16
+00:00:47,800 --> 00:00:51,470
+PDCA cycle, and your personal legal responsibilities.
+
+17
+00:00:52,050 --> 00:00:54,920
+We will then conclude with a knowledge assessment.
+
