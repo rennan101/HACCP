@@ -1,9 +1,9 @@
-// HTML Renderers for HACCP Level 2 Slide Layouts
+// HTML Renderers for HACCP Level 2 Slide Layouts with Showtime Motion Enhancements
 window.HACCP_RENDERERS = {
   renderCard(el, extraClass = "") {
     const colorClass = el.color ? `color-${el.color}` : "color-primary";
     const foodBadge = el.food_icon
-      ? `<img src="${el.food_icon}" class="food-badge-icon" alt="Food example">`
+      ? `<div class="food-badge-wrapper"><img src="${el.food_icon}" class="food-badge-icon" alt="Food example"></div>`
       : "";
     return `
       <div class="sync-card ${colorClass} ${extraClass}" id="${el.id}" data-start-time="${el.start_time}" data-end-time="${el.end_time || 999}">
@@ -30,16 +30,54 @@ window.HACCP_RENDERERS = {
 
   renderContent(slide) {
     const mode = slide.layout_mode || "split_photo";
-    const simpleGridModes = {
-      "full_width_grid_2col": "layout-full-width-2col",
-      "horizontal_timeline": "layout-horizontal-timeline",
-      "horizontal_flow": "layout-horizontal-timeline",
-      "full_width_grid_2x4": "layout-full-width-2x4",
-      "full_width_grid_4col": "layout-full-width-4col",
-      "pillar_architecture": "layout-pillar-architecture",
-      "pdca_quadrants": "layout-pdca-quadrants"
-    };
+    const sNum = slide.slide_num;
+    const G = window.HACCP_GRAPHICS;
 
+    // 1. Slide 11 Custom Pasteurization Thermal & Flow Profile
+    if (sNum === 11 && G) {
+      const cards = slide.elements.map(el => this.renderCard(el)).join("");
+      return `
+        <div class="layout-split-photo layout-pasteurization-pro">
+          <div class="cards-container">${cards}</div>
+          <div class="visual-container">${G.renderPasteurizationWidget()}</div>
+        </div>
+      `;
+    }
+
+    // 2. Slide 08 Custom Codex Decision Tree
+    if (sNum === 8 && G) {
+      const cards = slide.elements.map(el => this.renderCard(el)).join("");
+      return `
+        <div class="layout-decision-tree-pro">
+          <div class="cards-container grid-2col">${cards}</div>
+          <div class="tree-widget-area">${G.renderCCPDecisionTree()}</div>
+        </div>
+      `;
+    }
+
+    // 3. Slide 25 Custom Continuous PDCA Wheel
+    if (sNum === 25 && G) {
+      const cards = slide.elements.map(el => this.renderCard(el)).join("");
+      return `
+        <div class="layout-pdca-pro">
+          <div class="pdca-quadrants-grid">${cards}</div>
+          <div class="pdca-wheel-side">${G.renderPDCALoop()}</div>
+        </div>
+      `;
+    }
+
+    // 4. Slide 07 Custom Hazard & Risk Matrix
+    if (sNum === 7 && G) {
+      const cards = slide.elements.map(el => this.renderCard(el)).join("");
+      return `
+        <div class="layout-risk-matrix-pro">
+          <div class="cards-container grid-2col">${cards}</div>
+          <div class="matrix-widget-area">${G.renderRiskMatrix()}</div>
+        </div>
+      `;
+    }
+
+    // 5. Standard Split Photo
     if (mode === "split_photo") {
       let cards = "";
       let banner = "";
@@ -59,11 +97,12 @@ window.HACCP_RENDERERS = {
       `;
     }
 
+    // 6. Allergens 14 Grid (Slide 16)
     if (mode === "allergens_grid_7x2") {
       const cards = slide.elements.map(el => {
         const colorClass = el.color ? `color-${el.color}` : "color-primary";
         const iconHtml = el.food_icon
-          ? `<img src="${el.food_icon}" class="allergen-food-icon" alt="${el.heading}">`
+          ? `<div class="allergen-icon-bubble"><img src="${el.food_icon}" class="allergen-food-icon" alt="${el.heading}"></div>`
           : "";
         return `
           <div class="sync-card allergen-card ${colorClass}" id="${el.id}" data-start-time="${el.start_time}" data-end-time="${el.end_time || 999}">
@@ -76,6 +115,16 @@ window.HACCP_RENDERERS = {
       }).join("");
       return `<div class="layout-allergens-grid">${cards}</div>`;
     }
+
+    const simpleGridModes = {
+      "full_width_grid_2col": "layout-full-width-2col",
+      "horizontal_timeline": "layout-horizontal-timeline",
+      "horizontal_flow": "layout-horizontal-timeline",
+      "full_width_grid_2x4": "layout-full-width-2x4",
+      "full_width_grid_4col": "layout-full-width-4col",
+      "pillar_architecture": "layout-pillar-architecture",
+      "pdca_quadrants": "layout-pdca-quadrants"
+    };
 
     if (simpleGridModes[mode]) {
       const cards = slide.elements.map(el => this.renderCard(el)).join("");
@@ -111,7 +160,7 @@ window.HACCP_RENDERERS = {
     if (mode === "lab_table") {
       const rows = slide.elements.map(el => {
         const iconHtml = el.food_icon
-          ? `<img src="${el.food_icon}" style="width:24px;height:24px;vertical-align:middle;margin-right:8px;" alt="Food">`
+          ? `<img src="${el.food_icon}" style="width:28px;height:28px;vertical-align:middle;margin-right:10px;" alt="Food">`
           : "";
         return `
           <div class="lab-table-row" id="${el.id}" data-start-time="${el.start_time}" data-end-time="${el.end_time || 999}">

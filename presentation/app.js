@@ -27,6 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const volumeMuteBtn = document.getElementById("volume-mute-btn");
   const volumeSlider = document.getElementById("volume-slider");
   const volumeGroup = document.querySelector(".volume-group");
+  const audioVisualizer = document.getElementById("audio-visualizer");
 
   const stageCategory = document.getElementById("stage-category");
   const stageTitle = document.getElementById("stage-title");
@@ -144,12 +145,13 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // HELPER: update play button SVG icon
+  // HELPER: update play button SVG icon & visualizer
   function setPlayIcon(playing) {
     playBtn.innerHTML = playing
       ? `<svg class="svg-icon icon-pause" viewBox="0 0 24 24" fill="currentColor"><path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/></svg>`
       : `<svg class="svg-icon icon-play" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>`;
     playBtn.classList.toggle("is-playing", playing);
+    if (audioVisualizer) audioVisualizer.classList.toggle("is-paused", !playing);
   }
 
   voiceAudio.addEventListener("play", startSyncLoop);

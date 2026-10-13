@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>HACCP Level 2 Interactive Presentation Masterclass</title>
+  <title>HACCP Level 2 Masterclass — Interactive Studio</title>
+  <!-- Google Fonts: Plus Jakarta Sans, Syne, JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Syne:wght@700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -15,9 +19,13 @@
   <!-- 16:9 Presentation Stage Viewport -->
   <main id="viewport">
     <div id="stage">
+      <div class="stage-ambient-glow"></div>
       <div class="stage-top-bar"></div>
       <div class="stage-header">
-        <div id="stage-category" class="stage-category">HACCP Level 2 Training</div>
+        <div class="stage-header-badge-row">
+          <span id="stage-category" class="stage-category">HACCP Level 2 Training</span>
+          <span class="stage-industry-pill">Verified UK/EU Food &amp; Dairy Standard</span>
+        </div>
         <div id="stage-title" class="stage-title">Welcome &amp; Course Overview</div>
         <div id="stage-subtitle" class="stage-subtitle">Essential food safety management standards tailored for food and dairy processing</div>
       </div>
@@ -25,14 +33,17 @@
         <!-- Dynamic slide content will be rendered here by app.js -->
       </div>
       <div class="stage-footer">
-        <div>HACCP Level 2 Food Safety &amp; Dairy Processing Masterclass</div>
-        <div id="stage-counter">Slide 01 / 26</div>
+        <div class="stage-footer-brand">
+          <span class="footer-shield-dot"></span>
+          <span>HACCP Level 2 Food Safety &amp; Dairy Processing Masterclass</span>
+        </div>
+        <div id="stage-counter" class="stage-counter-pill">Slide 01 / 26</div>
       </div>
       <div id="subtitles-overlay" class="is-hidden"></div>
     </div>
   </main>
 
-  <!-- Footer Controls Bar (Professional SVG Icons) -->
+  <!-- Footer Controls Bar (Professional Showtime SVG Icons) -->
   <footer id="controls-bar" class="site-footer">
 
     <!-- LEFT: Brand + Playback -->
@@ -52,6 +63,15 @@
           <svg class="svg-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M6 18l8.5-6L6 6v12zM16 6v12h2V6h-2z"/></svg>
         </button>
       </div>
+
+      <!-- Live Audio Equalizer Waveform -->
+      <div id="audio-visualizer" class="audio-wave-bars is-paused" title="Voice Audio Activity">
+        <span class="bar b1"></span>
+        <span class="bar b2"></span>
+        <span class="bar b3"></span>
+        <span class="bar b4"></span>
+      </div>
+
       <select id="slide-select" class="slide-select" title="Jump to Slide">
         <!-- Populated dynamically -->
       </select>
@@ -108,8 +128,9 @@
     </div>
   </footer>
 
-  <!-- Scripts -->
+  <!-- Scripts: Data -> Motion Graphics -> Renderers -> App Controller -->
   <script src="slides_data.js"></script>
+  <script src="motion-graphics.js"></script>
   <script src="renderers.js"></script>
   <script src="app.js"></script>
 </body>

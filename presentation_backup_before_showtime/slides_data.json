@@ -1,0 +1,3630 @@
+[
+  {
+    "slide_num": 1,
+    "layout_mode": "split_photo",
+    "title": "Welcome & Course Overview",
+    "category": "HACCP Level 2 Training",
+    "subtitle": "Essential food safety management standards tailored for food and dairy processing",
+    "audio_file": "assets/audio/Slide_01_Welcome_Course_Title.mp3",
+    "image_file": "assets/images/slide_01.jpg",
+    "elements": [
+      {
+        "id": "s1_card1",
+        "start_time": 4.5,
+        "end_time": 14.5,
+        "tag": "Statutory Standard",
+        "heading": "UK & EU Regulation (EC) No 852/2004",
+        "description": "Mandatory hygiene framework ensuring safety from raw milk intake to packaged consumer goods.",
+        "color": "primary",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s1_card2",
+        "start_time": 14.5,
+        "end_time": 25.0,
+        "tag": "Operational Scope",
+        "heading": "Comprehensive Plant Protection",
+        "description": "Applies across intake decks, pasteurisation bays, cheese vats, packaging lines and QA labs.",
+        "color": "success",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s1_banner",
+        "start_time": 25.0,
+        "end_time": 35.0,
+        "type": "banner",
+        "heading": "Let's Get Started with HACCP Excellence",
+        "description": "Protecting our consumers, our brand, and everyday food safety.",
+        "color": "accent"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.9,
+        "text": "Welcome to this HACCP Level Two Training Programme,"
+      },
+      {
+        "start": 2.9,
+        "end": 6.15,
+        "text": "specifically tailored for food and dairy professionals."
+      },
+      {
+        "start": 6.81,
+        "end": 9.52,
+        "text": "Today, we are going to explore the vital principles"
+      },
+      {
+        "start": 9.52,
+        "end": 12.92,
+        "text": "of food safety management that keep our manufacturing processes"
+      },
+      {
+        "start": 12.92,
+        "end": 16.98,
+        "text": "secure, compliant, and trusted by millions of consumers every"
+      },
+      {
+        "start": 16.98,
+        "end": 20.27,
+        "text": "single day. Whether you work directly on the milk"
+      },
+      {
+        "start": 20.27,
+        "end": 24.24,
+        "text": "intake deck, pasteurisation bays, cheese processing vats,"
+      },
+      {
+        "start": 24.36,
+        "end": 26.71,
+        "text": "packing halls, or quality assurance,"
+      },
+      {
+        "start": 26.71,
+        "end": 28.9,
+        "text": "this course will provide you with the practical knowledge"
+      },
+      {
+        "start": 28.9,
+        "end": 31.17,
+        "text": "to protect our products, our brand,"
+      },
+      {
+        "start": 31.17,
+        "end": 33.28,
+        "text": "and above all, our consumers."
+      },
+      {
+        "start": 34.04,
+        "end": 35.71,
+        "text": "Let's get started."
+      }
+    ]
+  },
+  {
+    "slide_num": 2,
+    "layout_mode": "full_width_grid_2col",
+    "title": "Course Aim & Learning Syllabus",
+    "category": "Course Agenda",
+    "subtitle": "Comprehensive syllabus and core learning outcomes for dairy professionals",
+    "audio_file": "assets/audio/Slide_02_Course_Aim_Learning_Agenda.mp3",
+    "elements": [
+      {
+        "id": "s2_t1",
+        "start_time": 6.5,
+        "end_time": 12.0,
+        "tag": "Module 1",
+        "heading": "1. What is HACCP & History",
+        "description": "From NASA space missions to modern food legislation."
+      },
+      {
+        "id": "s2_t2",
+        "start_time": 12.0,
+        "end_time": 17.5,
+        "tag": "Module 2",
+        "heading": "2. Food Safety Hazards",
+        "description": "Biological, chemical, physical, and allergen risk factors."
+      },
+      {
+        "id": "s2_t3",
+        "start_time": 17.5,
+        "end_time": 23.0,
+        "tag": "Module 3",
+        "heading": "3. Legislation & Codex",
+        "description": "UK statutory compliance and Codex Alimentarius guidelines."
+      },
+      {
+        "id": "s2_t4",
+        "start_time": 23.0,
+        "end_time": 29.0,
+        "tag": "Module 4",
+        "heading": "4. The 7 Principles",
+        "description": "Foundational methodology for systematic hazard control."
+      },
+      {
+        "id": "s2_t5",
+        "start_time": 29.0,
+        "end_time": 34.5,
+        "tag": "Module 5",
+        "heading": "5. Determining CCPs",
+        "description": "Structured decision tree methodology and parameter limits."
+      },
+      {
+        "id": "s2_t6",
+        "start_time": 34.5,
+        "end_time": 41.0,
+        "tag": "Module 6",
+        "heading": "6. Dairy CCPs & PRPs",
+        "description": "Filtration, pasteurisation, chilling, metal detection & PRPs."
+      },
+      {
+        "id": "s2_t7",
+        "start_time": 41.0,
+        "end_time": 50.0,
+        "tag": "Module 7",
+        "heading": "7. PDCA Cycle & Assessment",
+        "description": "Continuous improvement, personal liability, and 10-question evaluation."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.44,
+        "text": "Our primary aim today is twofold:"
+      },
+      {
+        "start": 2.44,
+        "end": 5.88,
+        "text": "to summarise the HACCP system comprehensively and to review"
+      },
+      {
+        "start": 5.88,
+        "end": 9.06,
+        "text": "how Critical Control Points function in our daily dairy"
+      },
+      {
+        "start": 9.06,
+        "end": 12.55,
+        "text": "processing operations. Throughout this session,"
+      },
+      {
+        "start": 12.55,
+        "end": 15.14,
+        "text": "we will cover the fundamental definition of HACCP,"
+      },
+      {
+        "start": 15.14,
+        "end": 16.71,
+        "text": "the origins of the standard,"
+      },
+      {
+        "start": 16.71,
+        "end": 19.07,
+        "text": "and the types of food hazards you might encounter"
+      },
+      {
+        "start": 19.07,
+        "end": 22.9,
+        "text": "on site. We will examine key UK and European"
+      },
+      {
+        "start": 22.9,
+        "end": 27.16,
+        "text": "regulations, break down the seven foundational principles of HACCP,"
+      },
+      {
+        "start": 27.23,
+        "end": 31.12,
+        "text": "and discover exactly how Critical Control Points are determined"
+      },
+      {
+        "start": 31.12,
+        "end": 33.03,
+        "text": "using structured decision trees."
+      },
+      {
+        "start": 33.99,
+        "end": 37.42,
+        "text": "We will also explore dairy-specific CCP examples,"
+      },
+      {
+        "start": 37.42,
+        "end": 41.19,
+        "text": "monitoring routines, chemical, physical, biological,"
+      },
+      {
+        "start": 41.19,
+        "end": 44.18,
+        "text": "and allergen controls, prerequisite programmes,"
+      },
+      {
+        "start": 44.18,
+        "end": 47.8,
+        "text": "proper food safety attitude, corrective action plans via the"
+      },
+      {
+        "start": 47.8,
+        "end": 51.47,
+        "text": "PDCA cycle, and your personal legal responsibilities."
+      },
+      {
+        "start": 52.05,
+        "end": 54.92,
+        "text": "We will then conclude with a knowledge assessment."
+      }
+    ]
+  },
+  {
+    "slide_num": 3,
+    "layout_mode": "comparison_split",
+    "title": "What is HACCP?",
+    "category": "Core Definition",
+    "subtitle": "Hazard Analysis Critical Control Point: built-in prevention at source",
+    "audio_file": "assets/audio/Slide_03_What_is_HACCP.mp3",
+    "elements": [
+      {
+        "id": "s3_comp_old",
+        "start_time": 13.0,
+        "end_time": 26.0,
+        "type": "comparison_old",
+        "tag": "Traditional Approach",
+        "heading": "End-Product Inspection",
+        "description": "• Testing finished product after manufacture\n• High recall risk: unsafe product is already packaged\n• Impossible to test 100% of manufactured units\n• Delayed discovery causes massive food waste",
+        "color": "danger",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s3_comp_new",
+        "start_time": 26.0,
+        "end_time": 42.0,
+        "type": "comparison_new",
+        "tag": "HACCP Modern Standard",
+        "heading": "Process Control at Source",
+        "description": "• Identifies and controls hazards at each stage\n• Continuous real-time monitoring of critical limits\n• Immediate automated divert & correction\n• Prevents, reduces or eliminates risks proactively",
+        "color": "success",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s3_banner",
+        "start_time": 42.0,
+        "end_time": 52.0,
+        "type": "banner",
+        "heading": "Built Upon 7 Fundamental Codex Principles",
+        "description": "Guarantees end-to-end safety from raw milk intake to final packaged goods.",
+        "color": "accent"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.15,
+        "text": "So, what exactly is HACCP?"
+      },
+      {
+        "start": 2.7,
+        "end": 6.14,
+        "text": "HACCP stands for Hazard Analysis Critical Control Point."
+      },
+      {
+        "start": 6.75,
+        "end": 9.92,
+        "text": "At its heart, it is an internationally recognised,"
+      },
+      {
+        "start": 9.92,
+        "end": 13.42,
+        "text": "science-based food safety management system designed to do three"
+      },
+      {
+        "start": 13.42,
+        "end": 17.83,
+        "text": "things: prevent, reduce, or eliminate hazards in food before"
+      },
+      {
+        "start": 17.83,
+        "end": 19.47,
+        "text": "they ever reach a consumer."
+      },
+      {
+        "start": 20.07,
+        "end": 22.96,
+        "text": "Think about how traditional food quality used to work"
+      },
+      {
+        "start": 22.96,
+        "end": 27.33,
+        "text": "decades ago—people relied heavily on testing finished products after"
+      },
+      {
+        "start": 27.33,
+        "end": 29.34,
+        "text": "they were already made and packaged."
+      },
+      {
+        "start": 29.92,
+        "end": 32.8,
+        "text": "But end-product testing is like locking the stable door"
+      },
+      {
+        "start": 32.8,
+        "end": 34.52,
+        "text": "after the horse has bolted."
+      },
+      {
+        "start": 35.06,
+        "end": 37.07,
+        "text": "HACCP completely shifts the focus:"
+      },
+      {
+        "start": 37.07,
+        "end": 40.2,
+        "text": "it builds safety directly into every stage of the"
+      },
+      {
+        "start": 40.2,
+        "end": 44.68,
+        "text": "production process. Under Codex Alimentarius guidelines,"
+      },
+      {
+        "start": 44.71,
+        "end": 47.3,
+        "text": "HACCP operates on seven core principles,"
+      },
+      {
+        "start": 47.3,
+        "end": 50.74,
+        "text": "starting from hazard analysis right through to record-keeping,"
+      },
+      {
+        "start": 50.74,
+        "end": 54.85,
+        "text": "ensuring that potential issues are tackled proactively at source."
+      }
+    ]
+  },
+  {
+    "slide_num": 4,
+    "layout_mode": "horizontal_timeline",
+    "title": "Where Does HACCP Come From?",
+    "category": "Historical Origins",
+    "subtitle": "From 1960s NASA space missions to statutory international food legislation",
+    "audio_file": "assets/audio/Slide_04_Where_Does_HACCP_Come_From.mp3",
+    "elements": [
+      {
+        "id": "s4_era1",
+        "start_time": 2.0,
+        "end_time": 17.0,
+        "tag": "1960s",
+        "heading": "NASA & Pillsbury",
+        "description": "Developed 100% safe, pathogen-free food for astronauts in zero gravity.",
+        "food_icon": "assets/images/foods/dessert.png"
+      },
+      {
+        "id": "s4_era2",
+        "start_time": 17.0,
+        "end_time": 28.0,
+        "tag": "1970s",
+        "heading": "US FDA Adoption",
+        "description": "Formalised principles for commercial canning to stop botulism outbreaks.",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s4_era3",
+        "start_time": 28.0,
+        "end_time": 38.0,
+        "tag": "1990s",
+        "heading": "Codex Standard",
+        "description": "FAO / WHO international benchmark adopted HACCP worldwide.",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s4_era4",
+        "start_time": 38.0,
+        "end_time": 52.0,
+        "tag": "2000s - Present",
+        "heading": "Mandatory UK Law",
+        "description": "Regulation (EC) 852/2004 makes HACCP compulsory for all food plants.",
+        "food_icon": "assets/images/foods/butter.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.59,
+        "text": "You might be surprised to learn that HACCP was"
+      },
+      {
+        "start": 2.59,
+        "end": 4.84,
+        "text": "originally born out of the space race!"
+      },
+      {
+        "start": 5.54,
+        "end": 8.87,
+        "text": "In the 1960s, NASA collaborated with the U.S."
+      },
+      {
+        "start": 8.87,
+        "end": 12.26,
+        "text": "Army Laboratories and the Pillsbury Company to develop rations"
+      },
+      {
+        "start": 12.26,
+        "end": 15.29,
+        "text": "for astronauts. In zero gravity,"
+      },
+      {
+        "start": 15.29,
+        "end": 18.61,
+        "text": "a foodborne illness or even a few stray crumbs"
+      },
+      {
+        "start": 18.61,
+        "end": 20.6,
+        "text": "could be fatal to a space mission."
+      },
+      {
+        "start": 21.21,
+        "end": 24.19,
+        "text": "They realised they needed a system that guaranteed one"
+      },
+      {
+        "start": 24.19,
+        "end": 27.12,
+        "text": "hundred percent safety before the food left the launch"
+      },
+      {
+        "start": 27.12,
+        "end": 30.55,
+        "text": "pad. In the 1970s, the U.S."
+      },
+      {
+        "start": 30.55,
+        "end": 34.23,
+        "text": "Food and Drug Administration adopted these principles for commercial"
+      },
+      {
+        "start": 34.23,
+        "end": 37.46,
+        "text": "canned foods. By the 1990s,"
+      },
+      {
+        "start": 37.46,
+        "end": 41.33,
+        "text": "the Codex Alimentarius Commission adopted HACCP internationally."
+      },
+      {
+        "start": 41.9,
+        "end": 44.7,
+        "text": "And in the 2000s, it became a strict legal"
+      },
+      {
+        "start": 44.7,
+        "end": 48.2,
+        "text": "requirement across the UK and the European Union through"
+      },
+      {
+        "start": 48.2,
+        "end": 50.45,
+        "text": "Regulation (EC) 852/2004."
+      },
+      {
+        "start": 53.63,
+        "end": 56.74,
+        "text": "What started as space technology is now the benchmark"
+      },
+      {
+        "start": 56.74,
+        "end": 59.08,
+        "text": "of our daily dairy operations."
+      }
+    ]
+  },
+  {
+    "slide_num": 5,
+    "layout_mode": "split_photo",
+    "title": "What Are the Hazards in Food?",
+    "category": "Hazard Identification",
+    "subtitle": "The four fundamental categories of food safety hazards in dairy processing",
+    "audio_file": "assets/audio/Slide_05_What_Are_the_Hazards_in_Food.mp3",
+    "image_file": "assets/images/slide_05.jpg",
+    "elements": [
+      {
+        "id": "s5_h1",
+        "start_time": 7.0,
+        "end_time": 19.0,
+        "tag": "Biological",
+        "heading": "1. Biological Hazards",
+        "description": "Listeria monocytogenes, Salmonella, pathogenic E. coli and Bacillus cereus spores.",
+        "color": "danger",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s5_h2",
+        "start_time": 19.0,
+        "end_time": 30.0,
+        "tag": "Chemical",
+        "heading": "2. Chemical Hazards",
+        "description": "Detergent residues, CIP chemicals, sanitisers, and machinery lubricants.",
+        "color": "warning"
+      },
+      {
+        "id": "s5_h3",
+        "start_time": 30.0,
+        "end_time": 42.0,
+        "tag": "Physical",
+        "heading": "3. Physical Hazards",
+        "description": "Glass fragments, brittle hard plastics, metal swarf, hair, screws, and pests.",
+        "color": "primary"
+      },
+      {
+        "id": "s5_h4",
+        "start_time": 42.0,
+        "end_time": 55.0,
+        "tag": "Allergen",
+        "heading": "4. Allergen Hazards",
+        "description": "Unintended cross-contact with any of the 14 statutory recognized allergens.",
+        "color": "purple",
+        "food_icon": "assets/images/foods/peanuts.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.85,
+        "text": "Let's define what we mean by a food hazard."
+      },
+      {
+        "start": 3.46,
+        "end": 5.57,
+        "text": "A food hazard is any biological,"
+      },
+      {
+        "start": 5.57,
+        "end": 8.17,
+        "text": "chemical, or physical agent in food,"
+      },
+      {
+        "start": 8.18,
+        "end": 10.76,
+        "text": "or condition of food, with the potential to cause"
+      },
+      {
+        "start": 10.76,
+        "end": 13.77,
+        "text": "harm or make it unfit for human consumption."
+      },
+      {
+        "start": 14.35,
+        "end": 16.42,
+        "text": "As a dairy manufacturing business,"
+      },
+      {
+        "start": 16.56,
+        "end": 19.98,
+        "text": "we are legally and ethically obligated to identify potential"
+      },
+      {
+        "start": 19.98,
+        "end": 22.76,
+        "text": "hazards at every step of our process flow so"
+      },
+      {
+        "start": 22.76,
+        "end": 25.64,
+        "text": "that they can be systematically eliminated or reduced to"
+      },
+      {
+        "start": 25.64,
+        "end": 29.9,
+        "text": "safe levels. We classify food safety hazards into four"
+      },
+      {
+        "start": 29.9,
+        "end": 35.02,
+        "text": "principal categories: First, Physical hazards—foreign objects such as metal"
+      },
+      {
+        "start": 35.02,
+        "end": 38.15,
+        "text": "shavings, plastic, glass, or insects."
+      },
+      {
+        "start": 38.77,
+        "end": 43.0,
+        "text": "Second, Chemical hazards—such as cleaning chemical residues,"
+      },
+      {
+        "start": 43.0,
+        "end": 45.91,
+        "text": "lubricants, or veterinary drug residues."
+      },
+      {
+        "start": 46.57,
+        "end": 52.38,
+        "text": "Third, Microbiological hazards—pathogenic bacteria like Listeria monocytogenes,"
+      },
+      {
+        "start": 52.38,
+        "end": 54.16,
+        "text": "Salmonella, or E."
+      },
+      {
+        "start": 54.23,
+        "end": 59.39,
+        "text": "coli. And fourth, Allergen hazards—unintended cross-contact"
+      },
+      {
+        "start": 59.39,
+        "end": 62.0,
+        "text": "with major recognised food allergens."
+      }
+    ]
+  },
+  {
+    "slide_num": 6,
+    "layout_mode": "full_width_alert_split",
+    "title": "Regulations & Legal Framework",
+    "category": "Statutory Compliance",
+    "subtitle": "Codex Alimentarius baseline, Regulation (EC) 852/2004 and EHO enforcement",
+    "audio_file": "assets/audio/Slide_06_Regulations_and_Guidelines.mp3",
+    "elements": [
+      {
+        "id": "s6_c1",
+        "start_time": 2.0,
+        "end_time": 15.0,
+        "tag": "International Benchmark",
+        "heading": "Codex Alimentarius (FAO / WHO)",
+        "description": "Defines what hygiene rules are required internationally to protect global food trade.",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s6_c2",
+        "start_time": 15.0,
+        "end_time": 30.0,
+        "tag": "Statutory Law",
+        "heading": "Regulation (EC) No 852/2004",
+        "description": "Mandatory UK legislation requiring all food businesses to put in place a permanent HACCP system.",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s6_c3",
+        "start_time": 30.0,
+        "end_time": 52.0,
+        "type": "warning_box",
+        "tag": "Enforcement Authority",
+        "heading": "Environmental Health Officer (EHO) Powers",
+        "description": "EHOs inspect food plants regularly. Failure to maintain HACCP can result in immediate site closure, heavy statutory fines, and criminal prosecution.",
+        "color": "danger",
+        "food_icon": "assets/images/foods/butter.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.69,
+        "text": "Food safety isn't just best practice—it is the law."
+      },
+      {
+        "start": 4.31,
+        "end": 7.81,
+        "text": "The foundational benchmark is the Codex Alimentarius,"
+      },
+      {
+        "start": 7.86,
+        "end": 11.73,
+        "text": "established jointly by the Food and Agriculture Organisation and"
+      },
+      {
+        "start": 11.73,
+        "end": 13.7,
+        "text": "the World Health Organisation."
+      },
+      {
+        "start": 14.3,
+        "end": 18.27,
+        "text": "Codex sets global baseline food hygiene standards to protect"
+      },
+      {
+        "start": 18.27,
+        "end": 21.9,
+        "text": "consumer health and facilitate fair international trade."
+      },
+      {
+        "start": 22.49,
+        "end": 24.49,
+        "text": "A helpful way to think about this is:"
+      },
+      {
+        "start": 24.96,
+        "end": 27.87,
+        "text": "Codex defines what the hygiene requirements are,"
+      },
+      {
+        "start": 27.96,
+        "end": 31.19,
+        "text": "while HACCP provides the practical how-to framework to achieve"
+      },
+      {
+        "start": 31.19,
+        "end": 32.9,
+        "text": "them in our dairy facility."
+      },
+      {
+        "start": 33.44,
+        "end": 37.05,
+        "text": "In the UK, this is made mandatory under Regulation"
+      },
+      {
+        "start": 37.2,
+        "end": 42.38,
+        "text": "(EC) 852/2004. Environmental Health"
+      },
+      {
+        "start": 42.38,
+        "end": 46.6,
+        "text": "Officers, or EHOs, inspect food facilities regularly."
+      },
+      {
+        "start": 47.18,
+        "end": 49.98,
+        "text": "If a food business fails to implement or maintain"
+      },
+      {
+        "start": 49.98,
+        "end": 53.46,
+        "text": "an effective HACCP plan, the EHO possesses the statutory"
+      },
+      {
+        "start": 53.46,
+        "end": 55.38,
+        "text": "power to issue heavy fines,"
+      },
+      {
+        "start": 55.38,
+        "end": 60.12,
+        "text": "initiate criminal prosecution, or shut the facility down immediately."
+      }
+    ]
+  },
+  {
+    "slide_num": 7,
+    "layout_mode": "full_width_grid_2col",
+    "title": "The 7 Principles of HACCP",
+    "category": "Codex Methodology",
+    "subtitle": "The complete seven-step framework for dairy safety management",
+    "audio_file": "assets/audio/Slide_07_The_7_HACCP_Principles.mp3",
+    "elements": [
+      {
+        "id": "s7_p1",
+        "start_time": 2.0,
+        "end_time": 10.0,
+        "tag": "Principle 1",
+        "heading": "1. Conduct Hazard Analysis",
+        "description": "Identify all biological, chemical, physical, and allergen risks across the process."
+      },
+      {
+        "id": "s7_p2",
+        "start_time": 10.0,
+        "end_time": 20.0,
+        "tag": "Principle 2",
+        "heading": "2. Determine CCPs",
+        "description": "Identify steps essential to prevent, eliminate, or reduce hazards to safe levels."
+      },
+      {
+        "id": "s7_p3",
+        "start_time": 20.0,
+        "end_time": 30.0,
+        "tag": "Principle 3",
+        "heading": "3. Establish Critical Limits",
+        "description": "Define clear pass/fail safety boundaries (e.g. >72°C / 15s in pasteurisation)."
+      },
+      {
+        "id": "s7_p4",
+        "start_time": 30.0,
+        "end_time": 40.0,
+        "tag": "Principle 4",
+        "heading": "4. Establish Monitoring",
+        "description": "Continuous real-time tracking and logging of all critical control parameters."
+      },
+      {
+        "id": "s7_p5",
+        "start_time": 40.0,
+        "end_time": 50.0,
+        "tag": "Principle 5",
+        "heading": "5. Corrective Actions",
+        "description": "Pre-planned immediate procedures when monitoring shows a loss of control."
+      },
+      {
+        "id": "s7_p6",
+        "start_time": 50.0,
+        "end_time": 60.0,
+        "tag": "Principle 6",
+        "heading": "6. Verification Procedures",
+        "description": "Audits, probe calibrations, and laboratory testing to confirm the system works."
+      },
+      {
+        "id": "s7_p7",
+        "start_time": 60.0,
+        "end_time": 76.0,
+        "tag": "Principle 7",
+        "heading": "7. Documented Records",
+        "description": "Maintain robust documentation, trace logs, and due diligence compliance records."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.61,
+        "text": "Let's walk through the Seven Principles of HACCP in"
+      },
+      {
+        "start": 2.61,
+        "end": 7.08,
+        "text": "detail. Principle One: Conduct a Hazard Analysis."
+      },
+      {
+        "start": 7.75,
+        "end": 10.88,
+        "text": "We examine every single step in our dairy process"
+      },
+      {
+        "start": 10.88,
+        "end": 14.17,
+        "text": "to identify biological, chemical, physical,"
+      },
+      {
+        "start": 14.17,
+        "end": 15.6,
+        "text": "and allergen hazards."
+      },
+      {
+        "start": 16.24,
+        "end": 19.3,
+        "text": "Principle Two: Determine Critical Control Points,"
+      },
+      {
+        "start": 19.3,
+        "end": 22.99,
+        "text": "or CCPs. These are the specific steps where a"
+      },
+      {
+        "start": 22.99,
+        "end": 25.35,
+        "text": "control measure is essential to prevent,"
+      },
+      {
+        "start": 25.35,
+        "end": 28.86,
+        "text": "eliminate, or reduce a hazard to an acceptable level."
+      },
+      {
+        "start": 29.42,
+        "end": 32.2,
+        "text": "Principle Three: Establish Critical Limits."
+      },
+      {
+        "start": 32.88,
+        "end": 37.7,
+        "text": "We define measurable boundaries—such as minimum pasteurisation temperatures and"
+      },
+      {
+        "start": 37.7,
+        "end": 41.75,
+        "text": "holding times—that separate safe food from unsafe food."
+      },
+      {
+        "start": 42.35,
+        "end": 45.42,
+        "text": "Principle Four: Establish Monitoring Procedures."
+      },
+      {
+        "start": 46.07,
+        "end": 49.46,
+        "text": "We set up continuous or scheduled checks to confirm"
+      },
+      {
+        "start": 49.46,
+        "end": 53.2,
+        "text": "that every CCP stays strictly within its critical limits."
+      },
+      {
+        "start": 53.88,
+        "end": 57.08,
+        "text": "Principle Five: Establish Corrective Actions."
+      },
+      {
+        "start": 57.73,
+        "end": 59.77,
+        "text": "If monitoring shows a deviation,"
+      },
+      {
+        "start": 59.77,
+        "end": 64.05,
+        "text": "we execute immediate, predefined actions to regain control and"
+      },
+      {
+        "start": 64.05,
+        "end": 66.15,
+        "text": "isolate non-compliant product."
+      },
+      {
+        "start": 66.73,
+        "end": 70.16,
+        "text": "Principle Six: Establish Verification Procedures."
+      },
+      {
+        "start": 70.8,
+        "end": 74.79,
+        "text": "Through audits, calibrations, and microbiological tests,"
+      },
+      {
+        "start": 74.82,
+        "end": 78.0,
+        "text": "we verify that our HACCP system is working effectively."
+      },
+      {
+        "start": 78.57,
+        "end": 81.65,
+        "text": "And Principle Seven: Establish Record-Keeping."
+      },
+      {
+        "start": 82.23,
+        "end": 86.19,
+        "text": "We maintain clear, tamper-proof logs and documents proving our"
+      },
+      {
+        "start": 86.19,
+        "end": 88.95,
+        "text": "safety controls have operated correctly."
+      }
+    ]
+  },
+  {
+    "slide_num": 8,
+    "layout_mode": "horizontal_flow",
+    "title": "Determining Critical Control Points",
+    "category": "CCP Methodology",
+    "subtitle": "Structured decision tree methodology to establish control points",
+    "audio_file": "assets/audio/Slide_08_Determine_Critical_Control_Points_CCPs.mp3",
+    "elements": [
+      {
+        "id": "s8_s1",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "Step 1",
+        "heading": "Process Flow Diagram",
+        "description": "Construct an accurate flow diagram mapping every stage from raw milk intake to final shipping.",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s8_s2",
+        "start_time": 14.0,
+        "end_time": 27.0,
+        "tag": "Step 2",
+        "heading": "Hazard Analysis",
+        "description": "Evaluate the likelihood and severity of potential hazards at each step.",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s8_s3",
+        "start_time": 27.0,
+        "end_time": 39.0,
+        "tag": "Step 3",
+        "heading": "Codex Decision Tree",
+        "description": "Apply the 4 standard questions to determine if a step is a genuine CCP.",
+        "food_icon": "assets/images/foods/butter.png"
+      },
+      {
+        "id": "s8_s4",
+        "start_time": 39.0,
+        "end_time": 52.0,
+        "tag": "Step 4",
+        "heading": "Establish Critical Limits",
+        "description": "Set validated, measurable parameters and operational monitoring procedures.",
+        "food_icon": "assets/images/foods/yogurt.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.31,
+        "text": "Now let's focus on Principle Two:"
+      },
+      {
+        "start": 2.31,
+        "end": 4.6,
+        "text": "Determining Critical Control Points."
+      },
+      {
+        "start": 5.27,
+        "end": 7.82,
+        "text": "A CCP is not just any control point in"
+      },
+      {
+        "start": 7.82,
+        "end": 9.69,
+        "text": "the factory—it is a point,"
+      },
+      {
+        "start": 9.69,
+        "end": 13.01,
+        "text": "step, or procedure where control can be applied,"
+      },
+      {
+        "start": 13.01,
+        "end": 16.1,
+        "text": "and is completely essential to prevent or eliminate a"
+      },
+      {
+        "start": 16.1,
+        "end": 18.71,
+        "text": "significant food safety hazard or reduce it to an"
+      },
+      {
+        "start": 18.71,
+        "end": 22.63,
+        "text": "acceptable level. To determine CCPs accurately,"
+      },
+      {
+        "start": 22.63,
+        "end": 24.63,
+        "text": "we follow a rigorous six-step method:"
+      },
+      {
+        "start": 24.63,
+        "end": 27.67,
+        "text": "First, we map out a detailed processing flow of"
+      },
+      {
+        "start": 27.67,
+        "end": 29.29,
+        "text": "the entire dairy line."
+      },
+      {
+        "start": 29.88,
+        "end": 33.23,
+        "text": "Second, we perform a thorough hazard analysis at every"
+      },
+      {
+        "start": 33.23,
+        "end": 38.18,
+        "text": "single step. Third, we apply the standardised Codex CCP"
+      },
+      {
+        "start": 38.18,
+        "end": 42.83,
+        "text": "Decision Tree. Fourth, we determine which steps qualify as"
+      },
+      {
+        "start": 42.83,
+        "end": 44.64,
+        "text": "true Critical Control Points."
+      },
+      {
+        "start": 45.32,
+        "end": 48.39,
+        "text": "Fifth, we categorise the hazard by type of control—whether"
+      },
+      {
+        "start": 48.8,
+        "end": 52.41,
+        "text": "microbiological, physical, chemical, or allergen."
+      },
+      {
+        "start": 53.0,
+        "end": 56.67,
+        "text": "And sixth, we establish strict critical limits and monitoring"
+      },
+      {
+        "start": 56.67,
+        "end": 58.25,
+        "text": "routines for each."
+      }
+    ]
+  },
+  {
+    "slide_num": 9,
+    "layout_mode": "split_photo",
+    "title": "Your Work Area CCPs",
+    "category": "Interactive Reflection",
+    "subtitle": "Identifying and owning the Critical Control Points in your daily operational zone",
+    "audio_file": "assets/audio/Slide_09_Interactive_Reflection_Your_Work_Area_CC.mp3",
+    "image_file": "assets/images/slide_09.jpg",
+    "elements": [
+      {
+        "id": "s9_a1",
+        "start_time": 2.0,
+        "end_time": 12.0,
+        "tag": "Pasteurisation Bay",
+        "heading": "Heat Treatment CCP",
+        "description": "• Verify temperature (>72°C for 15s)\n• Check automated divert valve response\n• Inspect continuous chart records",
+        "color": "danger"
+      },
+      {
+        "id": "s9_a2",
+        "start_time": 12.0,
+        "end_time": 20.0,
+        "tag": "Chilling & Storage",
+        "heading": "Rapid Cooling CCP",
+        "description": "• Pull down temperature to <8°C in 90 min\n• Maintain cold store below <4°C target\n• Prevent spore germination",
+        "color": "primary"
+      },
+      {
+        "id": "s9_a3",
+        "start_time": 20.0,
+        "end_time": 28.0,
+        "tag": "Packaging Hall",
+        "heading": "Metal Detection CCP",
+        "description": "• 100% finished pack inline inspection\n• Hourly test piece validation (Fe/Non-Fe/SS)\n• Auto-reject fail-safe mechanism",
+        "color": "warning"
+      },
+      {
+        "id": "s9_act",
+        "start_time": 28.0,
+        "end_time": 38.0,
+        "type": "banner",
+        "heading": "If in Doubt: Escalate Immediately",
+        "description": "Always notify your shift supervisor or QA manager if a parameter drifts.",
+        "color": "accent"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.48,
+        "text": "Take a brief moment to reflect on your daily"
+      },
+      {
+        "start": 2.48,
+        "end": 6.77,
+        "text": "routine. Can you identify the specific Critical Control Points"
+      },
+      {
+        "start": 6.77,
+        "end": 8.59,
+        "text": "in your immediate work area?"
+      },
+      {
+        "start": 9.14,
+        "end": 12.91,
+        "text": "For instance, if you operate our milk pasteurisation plant,"
+      },
+      {
+        "start": 12.95,
+        "end": 15.73,
+        "text": "do you know your exact critical temperature and divert"
+      },
+      {
+        "start": 15.73,
+        "end": 16.97,
+        "text": "valve set points?"
+      },
+      {
+        "start": 17.62,
+        "end": 20.02,
+        "text": "If you work in cheese packing or powdered dairy"
+      },
+      {
+        "start": 20.02,
+        "end": 22.71,
+        "text": "lines, do you know the sensitivity limits of the"
+      },
+      {
+        "start": 22.71,
+        "end": 25.11,
+        "text": "metal detector at the end of the line?"
+      },
+      {
+        "start": 25.67,
+        "end": 28.35,
+        "text": "If you are ever unsure of how many CCPs"
+      },
+      {
+        "start": 28.35,
+        "end": 31.55,
+        "text": "exist in your operational zone or what their critical"
+      },
+      {
+        "start": 31.55,
+        "end": 35.13,
+        "text": "limits are, speak with your shift supervisor or quality"
+      },
+      {
+        "start": 35.13,
+        "end": 39.32,
+        "text": "team immediately. Food safety starts with knowing your control"
+      },
+      {
+        "start": 39.32,
+        "end": 41.1,
+        "text": "points inside out."
+      }
+    ]
+  },
+  {
+    "slide_num": 10,
+    "layout_mode": "full_width_grid_2x4",
+    "title": "Importance of HACCP for Our Company",
+    "category": "Business Value",
+    "subtitle": "8 fundamental reasons why HACCP safeguards our consumers, brand and licence to trade",
+    "audio_file": "assets/audio/Slide_10_Importance_of_HACCP_for_Our_Company.mp3",
+    "elements": [
+      {
+        "id": "s10_r1",
+        "start_time": 2.0,
+        "end_time": 8.0,
+        "tag": "1. Risk Control",
+        "heading": "Identifies & Prevents Hazards",
+        "description": "Systematic hazard mapping across raw milk intake, processing and packing."
+      },
+      {
+        "id": "s10_r2",
+        "start_time": 8.0,
+        "end_time": 14.0,
+        "tag": "2. Safety",
+        "heading": "Prevents Foodborne Illness",
+        "description": "Eliminates dangerous pathogens like Listeria, Salmonella, and pathogenic E. coli."
+      },
+      {
+        "id": "s10_r3",
+        "start_time": 14.0,
+        "end_time": 20.0,
+        "tag": "3. Prevention",
+        "heading": "Solves Root Causes",
+        "description": "Controls process conditions directly rather than reacting to spoilage at the end."
+      },
+      {
+        "id": "s10_r4",
+        "start_time": 20.0,
+        "end_time": 26.0,
+        "tag": "4. Public Health",
+        "heading": "Protects Public Health",
+        "description": "Guarantees safe daily nutrition for millions of families across the UK."
+      },
+      {
+        "id": "s10_r5",
+        "start_time": 26.0,
+        "end_time": 32.0,
+        "tag": "5. Brand Trust",
+        "heading": "Customer & Retailer Trust",
+        "description": "Meets strict supermarket codes of practice and BRCGS food safety benchmarks."
+      },
+      {
+        "id": "s10_r6",
+        "start_time": 32.0,
+        "end_time": 38.0,
+        "tag": "6. Security",
+        "heading": "Prevents Costly Recalls",
+        "description": "Protects company reputation and avoids devastating product recall expenses."
+      },
+      {
+        "id": "s10_r7",
+        "start_time": 38.0,
+        "end_time": 44.0,
+        "tag": "7. Compliance",
+        "heading": "Demonstrates Compliance",
+        "description": "Provides verified documentation and due diligence defense during audits."
+      },
+      {
+        "id": "s10_r8",
+        "start_time": 44.0,
+        "end_time": 53.0,
+        "tag": "8. Legal Licence",
+        "heading": "Mandatory Licence to Trade",
+        "description": "Statutory requirement: the plant cannot legally operate without a valid HACCP plan."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.34,
+        "text": "Why is HACCP so vital to our dairy operations?"
+      },
+      {
+        "start": 3.98,
+        "end": 5.99,
+        "text": "Here are eight fundamental reasons:"
+      },
+      {
+        "start": 5.99,
+        "end": 9.81,
+        "text": "Number one: It helps us deeply understand all potential"
+      },
+      {
+        "start": 9.81,
+        "end": 12.77,
+        "text": "food safety risks across our production lines."
+      },
+      {
+        "start": 13.45,
+        "end": 16.27,
+        "text": "Number two: It allows us to identify,"
+      },
+      {
+        "start": 16.27,
+        "end": 20.56,
+        "text": "evaluate, and control hazards before they cause foodborne illness."
+      },
+      {
+        "start": 21.21,
+        "end": 24.74,
+        "text": "Number three: It puts robust preventive controls in place"
+      },
+      {
+        "start": 24.74,
+        "end": 26.17,
+        "text": "at critical stages."
+      },
+      {
+        "start": 26.8,
+        "end": 29.61,
+        "text": "Number four: It protects consumer health,"
+      },
+      {
+        "start": 29.61,
+        "end": 33.56,
+        "text": "preventing microbial infections and severe allergic reactions."
+      },
+      {
+        "start": 34.2,
+        "end": 38.07,
+        "text": "Number five: It maintains customer and retailer confidence in"
+      },
+      {
+        "start": 38.07,
+        "end": 40.98,
+        "text": "the quality and safety of our dairy brand."
+      },
+      {
+        "start": 41.55,
+        "end": 44.99,
+        "text": "Number six: It safeguards our business reputation,"
+      },
+      {
+        "start": 44.99,
+        "end": 47.47,
+        "text": "avoiding catastrophic product recalls."
+      },
+      {
+        "start": 48.1,
+        "end": 52.4,
+        "text": "Number seven: It provides clear guidance on statutory compliance."
+      },
+      {
+        "start": 53.06,
+        "end": 55.4,
+        "text": "And number eight: Quite simply,"
+      },
+      {
+        "start": 55.4,
+        "end": 58.52,
+        "text": "we cannot legally trade or sell dairy products without"
+      },
+      {
+        "start": 58.52,
+        "end": 61.23,
+        "text": "an active, validated HACCP system."
+      }
+    ]
+  },
+  {
+    "slide_num": 11,
+    "layout_mode": "split_photo",
+    "title": "Production CCPs: Filtration & Heat Treatment",
+    "category": "Dairy Operations",
+    "subtitle": "Physical sediment removal and validated thermal pathogen kill steps",
+    "audio_file": "assets/audio/Slide_11_Production_CCP_Examples_Filtration_Therm.mp3",
+    "image_file": "assets/images/slide_11.jpg",
+    "elements": [
+      {
+        "id": "s11_ccp1",
+        "start_time": 2.0,
+        "end_time": 18.0,
+        "tag": "CCP 1",
+        "heading": "Raw Milk Filtration (1000 µm)",
+        "description": "• In-line 1000-micron filter mesh at tanker intake\n• Removes farm sediment, straw, and foreign particulate\n• Filter integrity checked and logged before and after discharge",
+        "color": "primary",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s11_ccp2",
+        "start_time": 18.0,
+        "end_time": 48.0,
+        "tag": "CCP 2",
+        "heading": "HTST Pasteurisation (>72°C / 15s)",
+        "description": "• Thermal kill step for Listeria monocytogenes and Salmonella\n• Automated flow divert valve triggers if temperature drops below 72.0°C\n• Continuous temperature chart recording and hourly verification",
+        "color": "danger",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s11_cook",
+        "start_time": 48.0,
+        "end_time": 64.0,
+        "type": "banner",
+        "heading": "Dessert & Curd Thermal Cook CCP (>86°C / 20 min)",
+        "description": "Validated thermal processing for dessert bases and cooked cheese recipes.",
+        "color": "success",
+        "food_icon": "assets/images/foods/dessert.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.69,
+        "text": "Let's examine how CCPs work in practice within our"
+      },
+      {
+        "start": 3.69,
+        "end": 5.44,
+        "text": "dairy processing facility."
+      },
+      {
+        "start": 5.99,
+        "end": 8.61,
+        "text": "First, consider Physical Hazard Control:"
+      },
+      {
+        "start": 8.61,
+        "end": 12.35,
+        "text": "CCP One is our In-line Raw Milk Filtration and"
+      },
+      {
+        "start": 12.35,
+        "end": 16.58,
+        "text": "Clarification system, equipped with fine filtration at one thousand"
+      },
+      {
+        "start": 16.58,
+        "end": 20.32,
+        "text": "microns. This removes extraneous farm debris,"
+      },
+      {
+        "start": 20.32,
+        "end": 24.85,
+        "text": "sediment, or particulate matter before raw milk enters processing."
+      },
+      {
+        "start": 25.42,
+        "end": 29.31,
+        "text": "Next, consider Pathogen Elimination through Thermal Processing:"
+      },
+      {
+        "start": 29.31,
+        "end": 32.98,
+        "text": "CCP Two is our Continuous Milk Pasteuriser:"
+      },
+      {
+        "start": 33.24,
+        "end": 36.49,
+        "text": "whole and skimmed milk must achieve a High-Temperature Short-Time"
+      },
+      {
+        "start": 36.49,
+        "end": 40.2,
+        "text": "pasteurisation temperature greater than seventy-two degrees Celsius with a"
+      },
+      {
+        "start": 40.2,
+        "end": 43.95,
+        "text": "validated holding time of at least fifteen seconds—or greater"
+      },
+      {
+        "start": 43.95,
+        "end": 46.67,
+        "text": "than seventy-two degrees Celsius for two and a half"
+      },
+      {
+        "start": 46.67,
+        "end": 49.41,
+        "text": "minutes in specialist dairy batch pasteurisers."
+      },
+      {
+        "start": 50.08,
+        "end": 53.49,
+        "text": "This thermal kill step destroys vegetative pathogens such as"
+      },
+      {
+        "start": 53.49,
+        "end": 55.96,
+        "text": "Listeria, Salmonella, and E."
+      },
+      {
+        "start": 55.96,
+        "end": 60.85,
+        "text": "coli. For our thermal batch processing lines—such as cultured"
+      },
+      {
+        "start": 60.85,
+        "end": 65.48,
+        "text": "dairy dessert bases and cheese curds—CCP Three enforces cooking"
+      },
+      {
+        "start": 65.48,
+        "end": 68.56,
+        "text": "and heat treatment at greater than eighty-six degrees Celsius"
+      },
+      {
+        "start": 68.56,
+        "end": 72.67,
+        "text": "for twenty minutes to achieve target microbiological reduction."
+      }
+    ]
+  },
+  {
+    "slide_num": 12,
+    "layout_mode": "split_photo",
+    "title": "Production CCPs: Chilling & Metal Detection",
+    "category": "Dairy Operations",
+    "subtitle": "Spore germination inhibition and final packaging physical inspection",
+    "audio_file": "assets/audio/Slide_12_Production_CCP_Examples_Chilling_Metal_D.mp3",
+    "image_file": "assets/images/slide_12.jpg",
+    "elements": [
+      {
+        "id": "s12_ccp3",
+        "start_time": 2.0,
+        "end_time": 26.0,
+        "tag": "CCP 3",
+        "heading": "Rapid Chilling (<8°C in 90 min)",
+        "description": "• Chills pasteurised milk and curds to <8.0°C within 90 minutes\n• Target finished storage temperature below 4.0°C\n• Inhibits germination of heat-resistant Bacillus cereus spores",
+        "color": "primary",
+        "food_icon": "assets/images/foods/butter.png"
+      },
+      {
+        "id": "s12_ccp4",
+        "start_time": 26.0,
+        "end_time": 43.0,
+        "tag": "CCP 4",
+        "heading": "In-Line Metal Detection",
+        "description": "• 100% inspection of finished cheese, yogurt, and dessert packs\n• Calibrated with Ferrous, Non-Ferrous, and Stainless Steel test pieces\n• Automated reject mechanism diverts suspect packs to a locked bin",
+        "color": "warning",
+        "food_icon": "assets/images/foods/yogurt.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.72,
+        "text": "Continuing with our operational CCPs:"
+      },
+      {
+        "start": 2.73,
+        "end": 7.03,
+        "text": "To prevent microbiological regrowth, rapid chilling is essential."
+      },
+      {
+        "start": 7.6,
+        "end": 11.12,
+        "text": "Following thermal treatment, pasteurised dairy bases,"
+      },
+      {
+        "start": 11.24,
+        "end": 14.42,
+        "text": "liquid creams, and fresh cheese curds must be chilled"
+      },
+      {
+        "start": 14.42,
+        "end": 18.27,
+        "text": "below eight degrees Celsius—and ideally below four degrees Celsius—within"
+      },
+      {
+        "start": 18.71,
+        "end": 22.88,
+        "text": "ninety minutes. Moving quickly through the temperature danger zone"
+      },
+      {
+        "start": 22.88,
+        "end": 27.19,
+        "text": "prevents spore-forming bacteria such as Bacillus cereus from germinating"
+      },
+      {
+        "start": 27.19,
+        "end": 31.01,
+        "text": "and multiplying. Finally, at the packaging end of our"
+      },
+      {
+        "start": 31.01,
+        "end": 35.09,
+        "text": "lines, we control physical hazards with inline Metal Detectors."
+      },
+      {
+        "start": 35.73,
+        "end": 39.51,
+        "text": "CCP Four monitors our packed dairy lines—such as block"
+      },
+      {
+        "start": 39.51,
+        "end": 43.7,
+        "text": "cheese, yogurt pots, and dairy desserts—checking for ferrous,"
+      },
+      {
+        "start": 43.7,
+        "end": 47.7,
+        "text": "non-ferrous, and stainless steel contamination before products are boxed"
+      },
+      {
+        "start": 47.7,
+        "end": 48.96,
+        "text": "and dispatched."
+      }
+    ]
+  },
+  {
+    "slide_num": 13,
+    "layout_mode": "split_photo",
+    "title": "Monitoring Procedures & Deviation Management",
+    "category": "Monitoring & GMP",
+    "subtitle": "Live logging, automated divert valves, and environmental Listeria surveillance",
+    "audio_file": "assets/audio/Slide_13_Monitoring_Procedures_Deviation_Manageme.mp3",
+    "image_file": "assets/images/slide_13.jpg",
+    "elements": [
+      {
+        "id": "s13_m1",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "Real-Time Logs",
+        "heading": "Live Shift Logging",
+        "description": "Observations must match physical gauges. Never back-fill paperwork after the event."
+      },
+      {
+        "id": "s13_m2",
+        "start_time": 14.0,
+        "end_time": 28.0,
+        "tag": "Automated Divert",
+        "heading": "Instant Fail-Safe Action",
+        "description": "If pasteuriser temp < 72°C, automated divert valve immediately diverts milk to balance tank."
+      },
+      {
+        "id": "s13_m3",
+        "start_time": 28.0,
+        "end_time": 36.0,
+        "tag": "NCR Protocol",
+        "heading": "Non-Conformance Reporting",
+        "description": "Raise an Incident Report immediately whenever a critical limit boundary is breached."
+      },
+      {
+        "id": "s13_m4",
+        "start_time": 36.0,
+        "end_time": 52.0,
+        "tag": "Environmental Swabs",
+        "heading": "Listeria Surveillance",
+        "description": "Risk-based swabbing of plant drains, floors, and food contact surfaces."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.84,
+        "text": "Principle Four requires effective monitoring."
+      },
+      {
+        "start": 3.42,
+        "end": 6.68,
+        "text": "In our dairy facility, we don't guess—we measure."
+      },
+      {
+        "start": 7.29,
+        "end": 11.9,
+        "text": "All CCP monitoring observations must match live production records"
+      },
+      {
+        "start": 11.9,
+        "end": 14.89,
+        "text": "and provide immediate, accurate feedback."
+      },
+      {
+        "start": 15.49,
+        "end": 18.95,
+        "text": "If a temperature drops below a critical limit—for example,"
+      },
+      {
+        "start": 18.95,
+        "end": 23.46,
+        "text": "if a pasteuriser temperature drops below seventy-two degrees—the automated"
+      },
+      {
+        "start": 23.46,
+        "end": 25.92,
+        "text": "flow divert valve must trigger immediately,"
+      },
+      {
+        "start": 25.92,
+        "end": 28.94,
+        "text": "and the operator must notify the Technical and Quality"
+      },
+      {
+        "start": 28.94,
+        "end": 30.3,
+        "text": "team without delay."
+      },
+      {
+        "start": 30.9,
+        "end": 34.49,
+        "text": "A formal Non-Conformance and Incident Report must be raised"
+      },
+      {
+        "start": 34.49,
+        "end": 35.37,
+        "text": "on the spot."
+      },
+      {
+        "start": 36.02,
+        "end": 40.4,
+        "text": "Alongside CCP monitoring, we conduct Environmental Monitoring."
+      },
+      {
+        "start": 40.96,
+        "end": 44.97,
+        "text": "This involves regular microbiological swab testing of surfaces,"
+      },
+      {
+        "start": 45.01,
+        "end": 49.15,
+        "text": "drains, and air to verify Good Manufacturing Practices and"
+      },
+      {
+        "start": 49.15,
+        "end": 53.45,
+        "text": "eradicate harborage sites for environmental pathogens like Listeria."
+      },
+      {
+        "start": 54.06,
+        "end": 56.36,
+        "text": "The frequency of testing is risk-based,"
+      },
+      {
+        "start": 56.36,
+        "end": 59.4,
+        "text": "determined by the HACCP team's risk assessment."
+      }
+    ]
+  },
+  {
+    "slide_num": 14,
+    "layout_mode": "split_photo",
+    "title": "Hazard Spotlight: Chemical Safety & CIP",
+    "category": "Chemical Controls",
+    "subtitle": "CIP sanitisation, Cleaning Instruction Cards (CICs), and prohibited tools",
+    "audio_file": "assets/audio/Slide_14_Hazard_Spotlight_Chemical_Safety.mp3",
+    "image_file": "assets/images/slide_14.jpg",
+    "elements": [
+      {
+        "id": "s14_c1",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "Approved Chemicals",
+        "heading": "CIP & Sanitiser Control",
+        "description": "Use only company-approved chemicals at verified dilutions and contact times."
+      },
+      {
+        "id": "s14_c2",
+        "start_time": 14.0,
+        "end_time": 28.0,
+        "tag": "CICs Protocol",
+        "heading": "Cleaning Instruction Cards",
+        "description": "Follow CICs strictly: check chemical concentration, water temperature, and contact time."
+      },
+      {
+        "id": "s14_c3",
+        "start_time": 28.0,
+        "end_time": 46.0,
+        "type": "warning_box",
+        "tag": "Strictly Forbidden",
+        "heading": "Prohibited Cleaning Tools",
+        "description": "Sponges harbor bacteria. Wire scouring pads shed metal wires into dairy products. Both are banned on site.",
+        "color": "danger"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.6,
+        "text": "Let's look at Chemical Hazard management."
+      },
+      {
+        "start": 3.23,
+        "end": 8.23,
+        "text": "In a dairy plant, extensive Clean-In-Place (CIP) systems and"
+      },
+      {
+        "start": 8.23,
+        "end": 11.59,
+        "text": "open plant sanitisation are carried out every day."
+      },
+      {
+        "start": 12.25,
+        "end": 15.35,
+        "text": "To avoid chemical contamination of our dairy products,"
+      },
+      {
+        "start": 15.35,
+        "end": 19.46,
+        "text": "worktops, pipework, and equipment must only be cleaned using"
+      },
+      {
+        "start": 19.46,
+        "end": 21.95,
+        "text": "chemicals from company-approved suppliers."
+      },
+      {
+        "start": 22.61,
+        "end": 26.19,
+        "text": "You must strictly follow the Cleaning Instruction Cards—known as"
+      },
+      {
+        "start": 26.19,
+        "end": 30.99,
+        "text": "CICs. Ensure you use the exact chemical concentration,"
+      },
+      {
+        "start": 30.99,
+        "end": 34.25,
+        "text": "correct water temperature, and required contact time,"
+      },
+      {
+        "start": 34.25,
+        "end": 37.24,
+        "text": "using designated, approved cleaning tools."
+      },
+      {
+        "start": 37.89,
+        "end": 41.74,
+        "text": "Please take note: abrasive sponges and wire scouring pads"
+      },
+      {
+        "start": 41.74,
+        "end": 43.74,
+        "text": "are strictly prohibited on site,"
+      },
+      {
+        "start": 43.99,
+        "end": 46.92,
+        "text": "as they break apart and introduce both chemical and"
+      },
+      {
+        "start": 46.92,
+        "end": 50.52,
+        "text": "physical hazards. Do you know who our approved chemical"
+      },
+      {
+        "start": 50.52,
+        "end": 52.77,
+        "text": "suppliers are for your department?"
+      }
+    ]
+  },
+  {
+    "slide_num": 15,
+    "layout_mode": "split_photo",
+    "title": "Hazard Spotlight: Physical Safety",
+    "category": "Physical Controls",
+    "subtitle": "Foreign body eradication, site glass policy, and emergency breakage procedures",
+    "audio_file": "assets/audio/Slide_15_Hazard_Spotlight_Physical_Safety.mp3",
+    "image_file": "assets/images/slide_15.jpg",
+    "elements": [
+      {
+        "id": "s15_p1",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "Foreign Bodies",
+        "heading": "Physical Contaminants",
+        "description": "Glass, brittle hard plastics, metal swarf, screws, nuts, jewellery, and hair."
+      },
+      {
+        "id": "s15_p2",
+        "start_time": 14.0,
+        "end_time": 26.0,
+        "tag": "Consumer Risks",
+        "heading": "Harm & Trauma",
+        "description": "Choking hazards, mouth lacerations, broken teeth, and internal punctures."
+      },
+      {
+        "id": "s15_p3",
+        "start_time": 26.0,
+        "end_time": 34.0,
+        "tag": "Glass Policy",
+        "heading": "Strict Glass Ban",
+        "description": "Zero glass in production halls and staff canteens; daily perspex register audits."
+      },
+      {
+        "id": "s15_p4",
+        "start_time": 34.0,
+        "end_time": 45.0,
+        "tag": "Breakage Action",
+        "heading": "Emergency Procedure",
+        "description": "Stop the line immediately, quarantine a 30m radius of product, and notify QA at once."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.5,
+        "text": "Turning to Physical Hazards: a physical hazard is any"
+      },
+      {
+        "start": 3.5,
+        "end": 7.91,
+        "text": "foreign object or extraneous matter that unintentionally enters food."
+      },
+      {
+        "start": 8.51,
+        "end": 11.58,
+        "text": "In the dairy sector, this includes glass fragments,"
+      },
+      {
+        "start": 11.58,
+        "end": 14.21,
+        "text": "brittle plastics, metal swarf, hair,"
+      },
+      {
+        "start": 14.21,
+        "end": 17.35,
+        "text": "personal items, loose screws, or insects."
+      },
+      {
+        "start": 17.98,
+        "end": 21.21,
+        "text": "Physical contaminants carry severe risks for consumers,"
+      },
+      {
+        "start": 21.21,
+        "end": 24.68,
+        "text": "including choking, mouth lacerations, broken teeth,"
+      },
+      {
+        "start": 24.68,
+        "end": 26.49,
+        "text": "and internal tissue damage."
+      },
+      {
+        "start": 27.31,
+        "end": 30.35,
+        "text": "To protect our products, glass is strictly forbidden in"
+      },
+      {
+        "start": 30.35,
+        "end": 32.72,
+        "text": "staff canteens and processing halls."
+      },
+      {
+        "start": 33.35,
+        "end": 35.58,
+        "text": "If any glass, hard plastic,"
+      },
+      {
+        "start": 35.58,
+        "end": 38.43,
+        "text": "or ceramic item is chipped or broken anywhere in"
+      },
+      {
+        "start": 38.43,
+        "end": 41.75,
+        "text": "the production area, you must stop the line immediately,"
+      },
+      {
+        "start": 41.75,
+        "end": 45.29,
+        "text": "quarantine all exposed product, and report the breakage to"
+      },
+      {
+        "start": 45.29,
+        "end": 47.92,
+        "text": "your supervisor as part of our formal Glass and"
+      },
+      {
+        "start": 47.92,
+        "end": 49.68,
+        "text": "Brittle Plastics Procedure."
+      }
+    ]
+  },
+  {
+    "slide_num": 16,
+    "layout_mode": "allergens_grid_7x2",
+    "title": "The 14 Major Food Allergens",
+    "category": "Allergen Compliance",
+    "subtitle": "UK & EU statutory mandatory declaration of all 14 recognized food allergens",
+    "audio_file": "assets/audio/Slide_16_Hazard_Spotlight_Allergen_Control_The_14.mp3",
+    "elements": [
+      {
+        "id": "s16_1",
+        "start_time": 2.0,
+        "end_time": 8.0,
+        "tag": "Allergen 01",
+        "heading": "1. Celery",
+        "description": "Includes stalks, leaves, and celery salt.",
+        "food_icon": "assets/images/foods/celery.png"
+      },
+      {
+        "id": "s16_2",
+        "start_time": 8.0,
+        "end_time": 14.0,
+        "tag": "Allergen 02",
+        "heading": "2. Gluten Cereals",
+        "description": "Wheat, rye, barley, oats, spelt, and kamut.",
+        "food_icon": "assets/images/foods/gluten.png"
+      },
+      {
+        "id": "s16_3",
+        "start_time": 14.0,
+        "end_time": 19.0,
+        "tag": "Allergen 03",
+        "heading": "3. Crustaceans",
+        "description": "Crabs, lobsters, prawns, and scampi.",
+        "food_icon": "assets/images/foods/crustaceans.png"
+      },
+      {
+        "id": "s16_4",
+        "start_time": 19.0,
+        "end_time": 24.0,
+        "tag": "Allergen 04",
+        "heading": "4. Eggs",
+        "description": "Liquid egg, albumin, and baked dessert mixes.",
+        "food_icon": "assets/images/foods/eggs.png"
+      },
+      {
+        "id": "s16_5",
+        "start_time": 24.0,
+        "end_time": 29.0,
+        "tag": "Allergen 05",
+        "heading": "5. Fish",
+        "description": "Fish sauces, gelatin, and fish oils.",
+        "food_icon": "assets/images/foods/fish.png"
+      },
+      {
+        "id": "s16_6",
+        "start_time": 29.0,
+        "end_time": 34.0,
+        "tag": "Allergen 06",
+        "heading": "6. Lupin",
+        "description": "Lupin flour and seeds in bakery items.",
+        "food_icon": "assets/images/foods/lupin.png"
+      },
+      {
+        "id": "s16_7",
+        "start_time": 34.0,
+        "end_time": 39.0,
+        "tag": "Allergen 07",
+        "heading": "7. Milk & Dairy",
+        "description": "Core site allergen: butter, cheese, whey, yogurt.",
+        "color": "primary",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s16_8",
+        "start_time": 39.0,
+        "end_time": 44.0,
+        "tag": "Allergen 08",
+        "heading": "8. Molluscs",
+        "description": "Mussels, oysters, squid, and snails.",
+        "food_icon": "assets/images/foods/molluscs.png"
+      },
+      {
+        "id": "s16_9",
+        "start_time": 44.0,
+        "end_time": 48.0,
+        "tag": "Allergen 09",
+        "heading": "9. Mustard",
+        "description": "Mustard liquid, powder, and seeds.",
+        "food_icon": "assets/images/foods/mustard.png"
+      },
+      {
+        "id": "s16_10",
+        "start_time": 48.0,
+        "end_time": 53.0,
+        "tag": "Allergen 10",
+        "heading": "10. Peanuts",
+        "description": "Legume groundnuts: strict site ban.",
+        "color": "danger",
+        "food_icon": "assets/images/foods/peanuts.png"
+      },
+      {
+        "id": "s16_11",
+        "start_time": 53.0,
+        "end_time": 58.0,
+        "tag": "Allergen 11",
+        "heading": "11. Sesame",
+        "description": "Sesame seeds, tahini, and sesame oils.",
+        "color": "danger",
+        "food_icon": "assets/images/foods/sesame.png"
+      },
+      {
+        "id": "s16_12",
+        "start_time": 58.0,
+        "end_time": 64.0,
+        "tag": "Allergen 12",
+        "heading": "12. Soya",
+        "description": "Soya lecithin in chocolate coatings.",
+        "food_icon": "assets/images/foods/soya.png"
+      },
+      {
+        "id": "s16_13",
+        "start_time": 64.0,
+        "end_time": 70.0,
+        "tag": "Allergen 13",
+        "heading": "13. Sulphites",
+        "description": "Preservative in fruit preparations (>10mg/kg).",
+        "food_icon": "assets/images/foods/sulphites.png"
+      },
+      {
+        "id": "s16_14",
+        "start_time": 70.0,
+        "end_time": 76.0,
+        "tag": "Allergen 14",
+        "heading": "14. Tree Nuts",
+        "description": "Almonds, hazelnuts, walnuts, cashews, pecans.",
+        "color": "danger",
+        "food_icon": "assets/images/foods/treenuts.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.57,
+        "text": "Allergen management is a life-or-death responsibility."
+      },
+      {
+        "start": 4.13,
+        "end": 6.2,
+        "text": "Under UK and EU law,"
+      },
+      {
+        "start": 6.2,
+        "end": 9.45,
+        "text": "food businesses are legally required to declare the presence"
+      },
+      {
+        "start": 9.45,
+        "end": 12.06,
+        "text": "of any of the fourteen major food allergens."
+      },
+      {
+        "start": 12.8,
+        "end": 14.7,
+        "text": "Let's run through all fourteen:"
+      },
+      {
+        "start": 14.7,
+        "end": 18.44,
+        "text": "One: Celery—including stalks, leaves, seeds,"
+      },
+      {
+        "start": 18.44,
+        "end": 23.58,
+        "text": "and celeriac. Two: Cereals containing gluten—such as wheat,"
+      },
+      {
+        "start": 23.58,
+        "end": 25.56,
+        "text": "rye, barley, and oats."
+      },
+      {
+        "start": 26.24,
+        "end": 29.75,
+        "text": "Three: Crustaceans—such as crabs, prawns,"
+      },
+      {
+        "start": 29.75,
+        "end": 33.85,
+        "text": "and lobster. Four: Eggs—found in baked items,"
+      },
+      {
+        "start": 33.85,
+        "end": 35.49,
+        "text": "glazes, and dressings."
+      },
+      {
+        "start": 36.12,
+        "end": 41.15,
+        "text": "Five: Fish. Six: Lupin—used in specialist flours and"
+      },
+      {
+        "start": 41.15,
+        "end": 46.14,
+        "text": "bakery products. Seven: Milk—the primary allergen in our dairy"
+      },
+      {
+        "start": 46.14,
+        "end": 49.65,
+        "text": "operations, encompassing lactose, casein, whey,"
+      },
+      {
+        "start": 49.7,
+        "end": 51.67,
+        "text": "butter, cheese, and cream."
+      },
+      {
+        "start": 52.25,
+        "end": 55.46,
+        "text": "Eight: Molluscs—including mussels and squid."
+      },
+      {
+        "start": 56.04,
+        "end": 59.54,
+        "text": "Nine: Mustard. Ten: Peanuts."
+      },
+      {
+        "start": 60.19,
+        "end": 62.23,
+        "text": "Eleven: Sesame Seeds."
+      },
+      {
+        "start": 62.9,
+        "end": 66.05,
+        "text": "Twelve: Soybeans—found in soy lecithin,"
+      },
+      {
+        "start": 66.05,
+        "end": 67.89,
+        "text": "tofu, and sauces."
+      },
+      {
+        "start": 68.49,
+        "end": 73.21,
+        "text": "Thirteen: Sulphur dioxide and sulphites—used as preservatives."
+      },
+      {
+        "start": 73.82,
+        "end": 76.98,
+        "text": "And fourteen: Tree nuts—including almonds,"
+      },
+      {
+        "start": 76.98,
+        "end": 80.36,
+        "text": "hazelnuts, walnuts, cashews, pecans,"
+      },
+      {
+        "start": 80.36,
+        "end": 83.72,
+        "text": "Brazil nuts, pistachios, and macadamias."
+      }
+    ]
+  },
+  {
+    "slide_num": 17,
+    "layout_mode": "split_photo",
+    "title": "Allergens on Our Dairy Site",
+    "category": "Allergen Management",
+    "subtitle": "Managing allergen profiles across liquid milk, cheese, desserts, and yogurt lines",
+    "audio_file": "assets/audio/Slide_17_Allergen_Management_on_Our_Dairy_Process.mp3",
+    "image_file": "assets/images/slide_17.jpg",
+    "elements": [
+      {
+        "id": "s17_a1",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "Core Allergen",
+        "heading": "Milk & Dairy",
+        "description": "Present across all standard milk, cheese, cream, butter, and yogurt lines.",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s17_a2",
+        "start_time": 14.0,
+        "end_time": 24.0,
+        "tag": "Bakery Ingredients",
+        "heading": "Gluten & Eggs",
+        "description": "Gluten in cheesecake crumb bases; Egg in chilled custards and baked puddings.",
+        "food_icon": "assets/images/foods/gluten.png"
+      },
+      {
+        "id": "s17_a3",
+        "start_time": 24.0,
+        "end_time": 32.0,
+        "tag": "Coatings & Fruit",
+        "heading": "Soya & Sulphites",
+        "description": "Soya lecithin in chocolate coatings; Sulphites in fruit preparations and fruit syrups.",
+        "food_icon": "assets/images/foods/soya.png"
+      },
+      {
+        "id": "s17_a4",
+        "start_time": 32.0,
+        "end_time": 42.0,
+        "tag": "Segregation Rule",
+        "heading": "Clean-Down Protocol",
+        "description": "Full CIP wash and validated rapid protein swab testing between recipe changeovers."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.11,
+        "text": "In our dairy processing facility,"
+      },
+      {
+        "start": 2.11,
+        "end": 5.35,
+        "text": "Milk is our primary raw material and product allergen,"
+      },
+      {
+        "start": 5.36,
+        "end": 7.42,
+        "text": "present across all our fresh milk,"
+      },
+      {
+        "start": 7.42,
+        "end": 9.82,
+        "text": "butter, cheese, and yogurt lines."
+      },
+      {
+        "start": 10.51,
+        "end": 12.93,
+        "text": "However, when we produce flavoured yogurts,"
+      },
+      {
+        "start": 12.93,
+        "end": 15.45,
+        "text": "desserts, or composite cheese blends,"
+      },
+      {
+        "start": 15.52,
+        "end": 17.93,
+        "text": "additional allergens enter our facility."
+      },
+      {
+        "start": 18.48,
+        "end": 22.13,
+        "text": "For example: Cereals containing gluten are handled in our"
+      },
+      {
+        "start": 22.13,
+        "end": 24.81,
+        "text": "layered dairy crumb pots; Egg is used in our"
+      },
+      {
+        "start": 24.81,
+        "end": 26.91,
+        "text": "custard and baked dessert recipes;"
+      },
+      {
+        "start": 26.94,
+        "end": 30.2,
+        "text": "Soy lecithin is present in chocolate dairy coatings;"
+      },
+      {
+        "start": 30.21,
+        "end": 33.25,
+        "text": "and Sulphites may be found in dried fruit preparations"
+      },
+      {
+        "start": 33.25,
+        "end": 34.45,
+        "text": "for yogurt toppings."
+      },
+      {
+        "start": 35.2,
+        "end": 38.76,
+        "text": "We must strictly segregate these ingredients to prevent allergen"
+      },
+      {
+        "start": 38.76,
+        "end": 42.64,
+        "text": "cross-contact. Can you list all the allergens handled in"
+      },
+      {
+        "start": 42.64,
+        "end": 45.02,
+        "text": "your specific production department?"
+      }
+    ]
+  },
+  {
+    "slide_num": 18,
+    "layout_mode": "split_photo",
+    "title": "Strict Nut-Free Site Facility Policy",
+    "category": "Site Safety Policy",
+    "subtitle": "Mandatory zero-tolerance prohibition of peanuts, tree nuts, and sesame seeds",
+    "audio_file": "assets/audio/Slide_18_Strict_Nut_Free_Site_Policy.mp3",
+    "image_file": "assets/images/slide_18.jpg",
+    "elements": [
+      {
+        "id": "s18_stop",
+        "start_time": 2.0,
+        "end_time": 12.0,
+        "type": "stop_card",
+        "tag": "Zero Tolerance",
+        "heading": "100% Nut-Free Facility",
+        "description": "• No Peanuts & Peanut Butter\n• No Almonds, Hazelnuts, Walnuts\n• No Cashews, Pecans, Pistachios\n• No Brazil nuts & Macadamias\n• No Sesame seeds & Sesame oils",
+        "color": "danger",
+        "food_icon": "assets/images/foods/peanuts.png"
+      },
+      {
+        "id": "s18_rules",
+        "start_time": 12.0,
+        "end_time": 36.0,
+        "tag": "Personal Responsibilities",
+        "heading": "Check Your Snacks & Meals",
+        "description": "1. Check all personal snacks, cereal bars, chocolates, and bakery items.\n2. Never bring prohibited nut items into staff canteens or lockers.\n3. Applies strictly to all employees, agency staff, contractors, and visitors.\n4. Report accidental introduction immediately to HR and QA.",
+        "color": "primary",
+        "food_icon": "assets/images/foods/treenuts.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 4.14,
+        "text": "We operate a strict, zero-tolerance Nut-Free Site Policy."
+      },
+      {
+        "start": 4.67,
+        "end": 7.99,
+        "text": "Because tree nuts and peanuts can cause fatal anaphylactic"
+      },
+      {
+        "start": 7.99,
+        "end": 11.48,
+        "text": "shock in vulnerable individuals, bringing any nuts onto this"
+      },
+      {
+        "start": 11.48,
+        "end": 13.47,
+        "text": "site is strictly prohibited."
+      },
+      {
+        "start": 14.04,
+        "end": 15.21,
+        "text": "When you come to work,"
+      },
+      {
+        "start": 15.21,
+        "end": 18.29,
+        "text": "your packed lunches and personal snacks must not contain"
+      },
+      {
+        "start": 18.29,
+        "end": 22.31,
+        "text": "peanuts, almonds, hazelnuts, walnuts, cashews,"
+      },
+      {
+        "start": 22.31,
+        "end": 25.75,
+        "text": "pecans, Brazil nuts, pistachios, macadamias,"
+      },
+      {
+        "start": 25.75,
+        "end": 27.03,
+        "text": "or sesame seeds."
+      },
+      {
+        "start": 27.71,
+        "end": 30.88,
+        "text": "This rule applies to everyone—permanent employees,"
+      },
+      {
+        "start": 30.88,
+        "end": 34.1,
+        "text": "temporary workers, contractors, and visitors."
+      },
+      {
+        "start": 34.71,
+        "end": 38.01,
+        "text": "Always inspect your snack packaging before bringing food on"
+      },
+      {
+        "start": 38.01,
+        "end": 38.95,
+        "text": "site."
+      }
+    ]
+  },
+  {
+    "slide_num": 19,
+    "layout_mode": "lab_table",
+    "title": "Biological Safety & Dairy Microbial KPIs",
+    "category": "Microbial Standards",
+    "subtitle": "Batch release criteria and laboratory microbiological release limits",
+    "audio_file": "assets/audio/Slide_19_Hazard_Spotlight_Biological_Safety_Micro.mp3",
+    "elements": [
+      {
+        "id": "s19_tvc",
+        "start_time": 2.0,
+        "end_time": 12.0,
+        "param": "Total Viable Count (TVC)",
+        "target": "< 5,000 cfu/g",
+        "action": "5,000 - 10,000 cfu/g",
+        "reject": "> 10,000 cfu/g",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s19_ent",
+        "start_time": 12.0,
+        "end_time": 24.0,
+        "param": "Enterobacteriaceae",
+        "target": "< 10 cfu/g",
+        "action": "10 - 20 cfu/g",
+        "reject": "≥ 20 cfu/g",
+        "food_icon": "assets/images/foods/butter.png"
+      },
+      {
+        "id": "s19_sta",
+        "start_time": 24.0,
+        "end_time": 34.0,
+        "param": "Staphylococcus aureus",
+        "target": "< 20 cfu/g",
+        "action": "20 - 50 cfu/g",
+        "reject": "> 50 cfu/g",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s19_bac",
+        "start_time": 34.0,
+        "end_time": 44.0,
+        "param": "Bacillus cereus",
+        "target": "< 100 cfu/g",
+        "action": "100 - 500 cfu/g",
+        "reject": "> 500 cfu/g",
+        "food_icon": "assets/images/foods/yogurt.png"
+      },
+      {
+        "id": "s19_sal",
+        "start_time": 44.0,
+        "end_time": 52.0,
+        "param": "Salmonella spp.",
+        "target": "ABSENT / 25g",
+        "action": "Zero Tolerance",
+        "reject": "DETECTED",
+        "color": "danger",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s19_lis",
+        "start_time": 52.0,
+        "end_time": 68.0,
+        "param": "Listeria monocytogenes",
+        "target": "ABSENT / 25g",
+        "action": "Zero Tolerance",
+        "reject": "DETECTED",
+        "color": "danger",
+        "food_icon": "assets/images/foods/cheese.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.82,
+        "text": "Let's explore Biological Hazards and our Key Performance Indicators"
+      },
+      {
+        "start": 3.82,
+        "end": 6.93,
+        "text": "for dairy products—including pasteurised milk,"
+      },
+      {
+        "start": 6.93,
+        "end": 9.42,
+        "text": "cream, cheese, and yogurt bases."
+      },
+      {
+        "start": 10.02,
+        "end": 14.96,
+        "text": "We test every production batch against strict microbiological specifications:"
+      },
+      {
+        "start": 14.96,
+        "end": 19.63,
+        "text": "For Total Viable Count—or TVC—our target is less than"
+      },
+      {
+        "start": 19.63,
+        "end": 22.16,
+        "text": "five thousand colony-forming units per gram,"
+      },
+      {
+        "start": 22.19,
+        "end": 25.16,
+        "text": "with an absolute rejection threshold at ten thousand."
+      },
+      {
+        "start": 25.7,
+        "end": 30.73,
+        "text": "For Presumptive Enterobacteriaceae—our hygiene indicator—the target is less"
+      },
+      {
+        "start": 30.73,
+        "end": 33.45,
+        "text": "than twenty per gram, and anything at twenty or"
+      },
+      {
+        "start": 33.45,
+        "end": 34.87,
+        "text": "above is rejected."
+      },
+      {
+        "start": 35.42,
+        "end": 39.12,
+        "text": "For Presumptive Staphylococcus aureus, our target is less than"
+      },
+      {
+        "start": 39.12,
+        "end": 42.34,
+        "text": "twenty per gram, rejected at twenty or above."
+      },
+      {
+        "start": 42.92,
+        "end": 46.29,
+        "text": "For Salmonella species, the standard is absolute:"
+      },
+      {
+        "start": 46.52,
+        "end": 48.49,
+        "text": "Absent in twenty-five grams."
+      },
+      {
+        "start": 49.12,
+        "end": 53.25,
+        "text": "Any presence triggers an immediate batch rejection and investigation."
+      },
+      {
+        "start": 53.88,
+        "end": 57.92,
+        "text": "For Listeria monocytogenes, the standard is equally strict:"
+      },
+      {
+        "start": 58.11,
+        "end": 60.08,
+        "text": "Absent in twenty-five grams."
+      },
+      {
+        "start": 60.71,
+        "end": 62.73,
+        "text": "And for Presumptive Bacillus cereus,"
+      },
+      {
+        "start": 62.94,
+        "end": 65.57,
+        "text": "our target is less than one hundred per gram,"
+      },
+      {
+        "start": 65.57,
+        "end": 68.56,
+        "text": "with rejection at greater than five hundred per gram."
+      },
+      {
+        "start": 69.13,
+        "end": 71.49,
+        "text": "Can you name the top three pathogens we work"
+      },
+      {
+        "start": 71.49,
+        "end": 74.54,
+        "text": "hardest to exclude from dairy environments?"
+      }
+    ]
+  },
+  {
+    "slide_num": 20,
+    "layout_mode": "split_photo",
+    "title": "Personal Hygiene & 20-Second Handwashing",
+    "category": "Personal Hygiene",
+    "subtitle": "The primary frontline defence protecting open dairy products from contamination",
+    "audio_file": "assets/audio/Slide_20_Personal_Hygiene_Handwashing_Protocol.mp3",
+    "image_file": "assets/images/slide_20.jpg",
+    "elements": [
+      {
+        "id": "s20_h1",
+        "start_time": 2.0,
+        "end_time": 12.0,
+        "tag": "Step 1",
+        "heading": "Wet Hands & Apply Soap",
+        "description": "Use clean running warm water and approved antibacterial foam soap."
+      },
+      {
+        "id": "s20_h2",
+        "start_time": 12.0,
+        "end_time": 20.0,
+        "tag": "Step 2",
+        "heading": "Scrub for 20 Seconds",
+        "description": "Thoroughly scrub palms, backs of hands, between fingers, thumbs, and wrists."
+      },
+      {
+        "id": "s20_h3",
+        "start_time": 20.0,
+        "end_time": 30.0,
+        "tag": "Step 3",
+        "heading": "Complete Rinse",
+        "description": "Rinse completely under running warm water to remove all soap residue."
+      },
+      {
+        "id": "s20_h4",
+        "start_time": 30.0,
+        "end_time": 40.0,
+        "tag": "Step 4",
+        "heading": "Dry & Sanitise",
+        "description": "Dry with single-use paper towels and apply alcohol hand rub."
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 4.61,
+        "text": "Personal hygiene is our frontline defence against product contamination."
+      },
+      {
+        "start": 5.23,
+        "end": 9.26,
+        "text": "Even the most sophisticated pasteuriser cannot compensate for poor"
+      },
+      {
+        "start": 9.26,
+        "end": 14.39,
+        "text": "operator hygiene. Handwashing is mandatory before entering production,"
+      },
+      {
+        "start": 14.45,
+        "end": 18.44,
+        "text": "after using the toilet, after touching waste or non-sanitised"
+      },
+      {
+        "start": 18.44,
+        "end": 22.67,
+        "text": "surfaces, and whenever changing tasks or handling allergens."
+      },
+      {
+        "start": 23.49,
+        "end": 26.05,
+        "text": "Use warm water and anti-bacterial soap,"
+      },
+      {
+        "start": 26.05,
+        "end": 28.37,
+        "text": "scrubbing thoroughly across your palms,"
+      },
+      {
+        "start": 28.4,
+        "end": 30.5,
+        "text": "backs of hands, between fingers,"
+      },
+      {
+        "start": 30.5,
+        "end": 33.49,
+        "text": "thumbs, and wrists for at least twenty seconds."
+      },
+      {
+        "start": 34.15,
+        "end": 37.92,
+        "text": "Rinse completely and dry using single-use paper towels or"
+      },
+      {
+        "start": 37.92,
+        "end": 39.33,
+        "text": "approved air dryers."
+      },
+      {
+        "start": 39.99,
+        "end": 42.95,
+        "text": "Remember: clean hands save lives."
+      }
+    ]
+  },
+  {
+    "slide_num": 21,
+    "layout_mode": "split_photo",
+    "title": "Factory Hygiene Zoning & Stationery Coding",
+    "category": "Zoning & Access",
+    "subtitle": "Strict barrier controls between raw intake, intermediate processing, and packing halls",
+    "audio_file": "assets/audio/Slide_21_Area_Hygiene_Zoning_Control.mp3",
+    "image_file": "assets/images/slide_21.jpg",
+    "elements": [
+      {
+        "id": "s21_z1",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "High-Risk (Aseptic)",
+        "heading": "Green Pen & Stationery",
+        "description": "Open ready-to-eat filling hall. Full captive white boots, overcoats, and positive air pressure.",
+        "color": "success",
+        "food_icon": "assets/images/foods/yogurt.png"
+      },
+      {
+        "id": "s21_z2",
+        "start_time": 14.0,
+        "end_time": 24.0,
+        "tag": "High-Care Area",
+        "heading": "Red Pen & Stationery",
+        "description": "Pasteurised cheese curds and yogurt processing vats. Footwear barrier and captive utensils.",
+        "color": "danger",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s21_z3",
+        "start_time": 24.0,
+        "end_time": 48.0,
+        "tag": "Low-Risk / Intake",
+        "heading": "Blue Pen & Stationery",
+        "description": "Raw tanker intake deck, chemical store, outer packaging warehouse, and general corridors.",
+        "color": "primary",
+        "food_icon": "assets/images/foods/milk.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.94,
+        "text": "To prevent cross-contamination, our dairy plant is divided into"
+      },
+      {
+        "start": 3.94,
+        "end": 7.25,
+        "text": "distinct hygiene zones: Low-Risk, High-Care,"
+      },
+      {
+        "start": 7.25,
+        "end": 8.76,
+        "text": "and High-Risk areas."
+      },
+      {
+        "start": 9.43,
+        "end": 13.68,
+        "text": "All packaging, ingredients, and utensils must be sanitised before"
+      },
+      {
+        "start": 13.68,
+        "end": 16.16,
+        "text": "entering High-Care and High-Risk rooms."
+      },
+      {
+        "start": 16.82,
+        "end": 20.65,
+        "text": "Personal mobile phones are permitted for authorised personnel only"
+      },
+      {
+        "start": 20.65,
+        "end": 23.68,
+        "text": "and MUST be thoroughly sanitised at the hygiene airlock"
+      },
+      {
+        "start": 23.68,
+        "end": 26.89,
+        "text": "before entry. For tablets, pens,"
+      },
+      {
+        "start": 26.89,
+        "end": 30.3,
+        "text": "clipboards, and electrical equipment that cannot be immersed in"
+      },
+      {
+        "start": 30.3,
+        "end": 33.11,
+        "text": "water, use approved sanitising wipes."
+      },
+      {
+        "start": 33.76,
+        "end": 36.92,
+        "text": "We also maintain a strict pen colour-coding system:"
+      },
+      {
+        "start": 37.1,
+        "end": 40.4,
+        "text": "Green Pens are used exclusively in High-Risk areas;"
+      },
+      {
+        "start": 40.54,
+        "end": 43.64,
+        "text": "Red Pens are used exclusively in High-Care areas;"
+      },
+      {
+        "start": 43.64,
+        "end": 47.28,
+        "text": "and Blue Pens are used exclusively in Low-Risk areas."
+      },
+      {
+        "start": 48.29,
+        "end": 52.62,
+        "text": "Never carry stationery or tools between zones without decontaminating"
+      },
+      {
+        "start": 52.62,
+        "end": 53.36,
+        "text": "them."
+      }
+    ]
+  },
+  {
+    "slide_num": 22,
+    "layout_mode": "pillar_architecture",
+    "title": "Prerequisite Programmes (PRPs)",
+    "category": "Foundational Hygiene",
+    "subtitle": "The 7 structural pillars supporting the entire dairy HACCP food safety framework",
+    "audio_file": "assets/audio/Slide_22_Prerequisite_Programmes_PRPs.mp3",
+    "elements": [
+      {
+        "id": "s22_p1",
+        "start_time": 2.0,
+        "end_time": 8.0,
+        "tag": "01",
+        "heading": "Cleaning & CIP",
+        "description": "Automated CIP cycles and titration logs.",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s22_p2",
+        "start_time": 8.0,
+        "end_time": 15.0,
+        "tag": "02",
+        "heading": "Hygiene & PPE",
+        "description": "Handwashing, hairnets, and illness reporting.",
+        "food_icon": "assets/images/foods/butter.png"
+      },
+      {
+        "id": "s22_p3",
+        "start_time": 15.0,
+        "end_time": 22.0,
+        "tag": "03",
+        "heading": "Pest Control",
+        "description": "Bait boxes, fly killers, and contractor audits.",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s22_p4",
+        "start_time": 22.0,
+        "end_time": 29.0,
+        "tag": "04",
+        "heading": "Maintenance",
+        "description": "PPM servicing and food-grade lubricants.",
+        "food_icon": "assets/images/foods/yogurt.png"
+      },
+      {
+        "id": "s22_p5",
+        "start_time": 29.0,
+        "end_time": 36.0,
+        "tag": "05",
+        "heading": "Suppliers",
+        "description": "BRCGS certified ingredients & raw milk tests.",
+        "food_icon": "assets/images/foods/cookie.png"
+      },
+      {
+        "id": "s22_p6",
+        "start_time": 36.0,
+        "end_time": 44.0,
+        "tag": "06",
+        "heading": "Allergens",
+        "description": "Dedicated equipment and clean-down checks.",
+        "food_icon": "assets/images/foods/dessert.png"
+      },
+      {
+        "id": "s22_p7",
+        "start_time": 44.0,
+        "end_time": 58.0,
+        "tag": "07",
+        "heading": "Training",
+        "description": "Competence assessments and refreshers.",
+        "food_icon": "assets/images/foods/milk.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.28,
+        "text": "Before a HACCP plan can succeed,"
+      },
+      {
+        "start": 2.32,
+        "end": 7.73,
+        "text": "the manufacturing facility must have strong Prerequisite Programmes—or PRPs."
+      },
+      {
+        "start": 7.87,
+        "end": 12.37,
+        "text": "PRPs are the foundational environmental and operational hygiene conditions"
+      },
+      {
+        "start": 12.37,
+        "end": 14.71,
+        "text": "necessary for producing safe food."
+      },
+      {
+        "start": 15.31,
+        "end": 18.38,
+        "text": "They manage general baseline hazards so that our HACCP"
+      },
+      {
+        "start": 18.38,
+        "end": 21.66,
+        "text": "team can focus on specific Critical Control Points."
+      },
+      {
+        "start": 22.32,
+        "end": 24.43,
+        "text": "There are seven key PRP pillars:"
+      },
+      {
+        "start": 24.43,
+        "end": 29.74,
+        "text": "One: Cleaning and Sanitation—routine CIP and deep-cleaning schedules."
+      },
+      {
+        "start": 30.39,
+        "end": 34.6,
+        "text": "Two: Personal Hygiene—clothing standards, health monitoring,"
+      },
+      {
+        "start": 34.6,
+        "end": 39.19,
+        "text": "and hairnets. Three: Pest Control—professional baiting,"
+      },
+      {
+        "start": 39.19,
+        "end": 41.39,
+        "text": "monitoring, and insect screens."
+      },
+      {
+        "start": 42.02,
+        "end": 47.0,
+        "text": "Four: Equipment and Premises Maintenance—preventive engineering routines."
+      },
+      {
+        "start": 47.64,
+        "end": 52.55,
+        "text": "Five: Supplier Control—auditing and approving dairy farms and ingredient"
+      },
+      {
+        "start": 52.55,
+        "end": 58.27,
+        "text": "vendors. Six: Allergen Management—strict segregation and scheduling."
+      },
+      {
+        "start": 58.86,
+        "end": 64.47,
+        "text": "And Seven: Staff Training—ensuring every colleague understands food safety."
+      }
+    ]
+  },
+  {
+    "slide_num": 23,
+    "layout_mode": "split_photo",
+    "title": "Cross-Contamination & 4-Point Labelling",
+    "category": "Culture & Storage",
+    "subtitle": "Segregation rules and the mandatory open ingredient container labelling system",
+    "audio_file": "assets/audio/Slide_23_Food_Safety_Attitude_Cross_Contamination.mp3",
+    "image_file": "assets/images/slide_23.jpg",
+    "elements": [
+      {
+        "id": "s23_seg",
+        "start_time": 2.0,
+        "end_time": 18.0,
+        "tag": "Segregation Rules",
+        "heading": "Storage & Tool Separation",
+        "description": "• Separate raw milk from pasteurised products\n• Store all ingredients in sealed, dedicated tubs\n• Never place ingredient containers directly on the floor\n• Use designated colour-coded scoops for each recipe",
+        "color": "primary",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s23_lbl",
+        "start_time": 18.0,
+        "end_time": 44.0,
+        "type": "label_card",
+        "tag": "Mandatory Standard",
+        "heading": "4-Point Container Label",
+        "description": "1. Ingredient Name & Batch Code\n2. Date Opened / Thawed\n3. Secondary Use-By Date (e.g. 72h max)\n4. Operator Signature / ID Number",
+        "color": "warning",
+        "food_icon": "assets/images/foods/dessert.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.99,
+        "text": "Safety isn't just a manual on a shelf—it's a"
+      },
+      {
+        "start": 2.99,
+        "end": 5.91,
+        "text": "mindset and an attitude we bring to work every"
+      },
+      {
+        "start": 5.91,
+        "end": 10.68,
+        "text": "shift. To prevent cross-contamination, keep raw milk and processed"
+      },
+      {
+        "start": 10.68,
+        "end": 12.49,
+        "text": "dairy strictly segregated."
+      },
+      {
+        "start": 13.05,
+        "end": 16.18,
+        "text": "Use dedicated colour-coded utensils, buckets,"
+      },
+      {
+        "start": 16.18,
+        "end": 21.07,
+        "text": "and valves. Always clean and sanitise equipment between recipes,"
+      },
+      {
+        "start": 21.07,
+        "end": 24.03,
+        "text": "especially when switching to allergen-free lines."
+      },
+      {
+        "start": 24.69,
+        "end": 28.46,
+        "text": "In storage, keep all ingredients in sealed containers."
+      },
+      {
+        "start": 29.11,
+        "end": 31.89,
+        "text": "Every container MUST have an intact label showing four"
+      },
+      {
+        "start": 31.89,
+        "end": 35.23,
+        "text": "pieces of information: First, the Ingredient Name;"
+      },
+      {
+        "start": 35.23,
+        "end": 37.64,
+        "text": "Second, the Date Opened or Thawed;"
+      },
+      {
+        "start": 37.64,
+        "end": 40.31,
+        "text": "Third, the Use-By Date; and Fourth,"
+      },
+      {
+        "start": 40.31,
+        "end": 41.65,
+        "text": "the Operator's Name."
+      },
+      {
+        "start": 42.23,
+        "end": 44.37,
+        "text": "If an ingredient lacks a clear label,"
+      },
+      {
+        "start": 44.37,
+        "end": 45.6,
+        "text": "do not use it."
+      },
+      {
+        "start": 46.25,
+        "end": 48.1,
+        "text": "Report it immediately."
+      }
+    ]
+  },
+  {
+    "slide_num": 24,
+    "layout_mode": "pdca_quadrants",
+    "title": "Corrective Actions & The PDCA Quality Cycle",
+    "category": "Continuous Improvement",
+    "subtitle": "Regaining control, investigating root causes, and standardising permanent fixes",
+    "audio_file": "assets/audio/Slide_24_Corrective_Actions_The_PDCA_Cycle.mp3",
+    "elements": [
+      {
+        "id": "s24_p",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "Phase 1",
+        "heading": "1. PLAN",
+        "description": "• Define hazard analysis\n• Set critical limits & tolerances\n• Prepare SOPs and CIC cards",
+        "color": "primary",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s24_d",
+        "start_time": 14.0,
+        "end_time": 26.0,
+        "tag": "Phase 2",
+        "heading": "2. DO",
+        "description": "• Execute HACCP procedures\n• Monitor CCPs in real-time\n• Log data accurately on shift",
+        "color": "success",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s24_c",
+        "start_time": 26.0,
+        "end_time": 38.0,
+        "tag": "Phase 3",
+        "heading": "3. CHECK",
+        "description": "• Audit shift records\n• Calibrate thermometers\n• Review lab microbiology reports",
+        "color": "warning",
+        "food_icon": "assets/images/foods/butter.png"
+      },
+      {
+        "id": "s24_a",
+        "start_time": 38.0,
+        "end_time": 58.0,
+        "tag": "Phase 4",
+        "heading": "4. ACT",
+        "description": "• Investigate deviations\n• Standardise corrective fixes\n• Update the HACCP plan",
+        "color": "purple",
+        "food_icon": "assets/images/foods/yogurt.png"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 2.35,
+        "text": "What happens when something goes wrong?"
+      },
+      {
+        "start": 3.0,
+        "end": 5.78,
+        "text": "That is where Corrective Actions come into play."
+      },
+      {
+        "start": 6.44,
+        "end": 9.65,
+        "text": "A corrective action is a specific procedure taken when"
+      },
+      {
+        "start": 9.65,
+        "end": 13.06,
+        "text": "monitoring shows that a CCP has deviated from its"
+      },
+      {
+        "start": 13.06,
+        "end": 16.09,
+        "text": "critical limit. It has three aims:"
+      },
+      {
+        "start": 16.12,
+        "end": 18.35,
+        "text": "bring the process back under control,"
+      },
+      {
+        "start": 18.35,
+        "end": 21.3,
+        "text": "determine the root cause, and prevent recurrence."
+      },
+      {
+        "start": 21.95,
+        "end": 25.77,
+        "text": "For example, if a pasteuriser temperature drops below seventy-two"
+      },
+      {
+        "start": 25.77,
+        "end": 29.54,
+        "text": "degrees Celsius, the diverter automatically returns the milk to"
+      },
+      {
+        "start": 29.54,
+        "end": 30.73,
+        "text": "the balance tank."
+      },
+      {
+        "start": 31.32,
+        "end": 33.12,
+        "text": "The operator logs the incident,"
+      },
+      {
+        "start": 33.12,
+        "end": 37.42,
+        "text": "quarantines any suspect product, and investigates the steam supply"
+      },
+      {
+        "start": 37.42,
+        "end": 38.81,
+        "text": "or heat exchanger."
+      },
+      {
+        "start": 39.37,
+        "end": 43.4,
+        "text": "We utilise the PDCA quality cycle to continuously refine"
+      },
+      {
+        "start": 43.4,
+        "end": 47.43,
+        "text": "our HACCP plan: Plan: Conduct hazard analyses and set"
+      },
+      {
+        "start": 47.43,
+        "end": 50.96,
+        "text": "critical limits. Do: Implement controls,"
+      },
+      {
+        "start": 50.96,
+        "end": 53.75,
+        "text": "train teams, and execute routines."
+      },
+      {
+        "start": 54.4,
+        "end": 58.05,
+        "text": "Check: Monitor CCPs, review thermograph charts,"
+      },
+      {
+        "start": 58.05,
+        "end": 59.35,
+        "text": "and run audits."
+      },
+      {
+        "start": 60.0,
+        "end": 63.49,
+        "text": "Act: Standardise fixes, update procedures,"
+      },
+      {
+        "start": 63.49,
+        "end": 65.78,
+        "text": "and prevent repeat deviations."
+      }
+    ]
+  },
+  {
+    "slide_num": 25,
+    "layout_mode": "split_photo",
+    "title": "The HACCP Team & Individual Legal Liability",
+    "category": "Shared Accountability",
+    "subtitle": "Multidisciplinary ownership, quarantine protocols, and personal statutory responsibility",
+    "audio_file": "assets/audio/Slide_25_The_HACCP_Team_Responsibilities_Legal_Ac.mp3",
+    "image_file": "assets/images/slide_25.jpg",
+    "elements": [
+      {
+        "id": "s25_team",
+        "start_time": 2.0,
+        "end_time": 14.0,
+        "tag": "HACCP Team",
+        "heading": "Multidisciplinary Team",
+        "description": "Operations, Quality Assurance, Engineering, Hygiene, and Warehousing working collaboratively.",
+        "color": "primary"
+      },
+      {
+        "id": "s25_hold",
+        "start_time": 14.0,
+        "end_time": 26.0,
+        "type": "hold_tag",
+        "tag": "Immediate Quarantine",
+        "heading": "ON-HOLD Protocol",
+        "description": "Attach physical Yellow/Red ON-HOLD tag immediately and lock batch in ERP. Only QA can release quarantined lots.",
+        "color": "danger"
+      },
+      {
+        "id": "s25_law",
+        "start_time": 26.0,
+        "end_time": 52.0,
+        "tag": "Statutory Duty",
+        "heading": "Personal Legal Liability",
+        "description": "Under Regulation (EC) 852/2004, individuals can be held personally liable for falsifying records or concealing safety breaches.",
+        "color": "warning"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 3.33,
+        "text": "Developing and maintaining HACCP requires teamwork."
+      },
+      {
+        "start": 3.94,
+        "end": 7.8,
+        "text": "A HACCP Team is a multidisciplinary group comprising operations,"
+      },
+      {
+        "start": 7.8,
+        "end": 11.52,
+        "text": "quality assurance, engineering, and hygiene specialists."
+      },
+      {
+        "start": 12.18,
+        "end": 14.64,
+        "text": "Whenever an out-of-specification event occurs,"
+      },
+      {
+        "start": 14.64,
+        "end": 19.05,
+        "text": "immediate action is required: place the affected product ON-HOLD"
+      },
+      {
+        "start": 19.05,
+        "end": 20.87,
+        "text": "with physical quarantine tags."
+      },
+      {
+        "start": 21.58,
+        "end": 25.33,
+        "text": "The Technical and Quality team will investigate and determine"
+      },
+      {
+        "start": 25.33,
+        "end": 28.38,
+        "text": "whether the product can be safely reprocessed or must"
+      },
+      {
+        "start": 28.38,
+        "end": 32.32,
+        "text": "be destroyed. Remember: Food safety is not just the"
+      },
+      {
+        "start": 32.32,
+        "end": 36.75,
+        "text": "Quality department's job—it is a shared responsibility across every"
+      },
+      {
+        "start": 36.75,
+        "end": 38.03,
+        "text": "single team member."
+      },
+      {
+        "start": 38.6,
+        "end": 42.52,
+        "text": "Under UK food law, any individual employee who knowingly"
+      },
+      {
+        "start": 42.52,
+        "end": 47.17,
+        "text": "breaches hygiene regulations or falsifies records can be held"
+      },
+      {
+        "start": 47.17,
+        "end": 50.66,
+        "text": "personally legally accountable for foodborne illness outbreaks."
+      },
+      {
+        "start": 51.57,
+        "end": 54.26,
+        "text": "Let us take pride in keeping our dairy products"
+      },
+      {
+        "start": 54.26,
+        "end": 57.24,
+        "text": "safe and our reputation uncompromised."
+      }
+    ]
+  },
+  {
+    "slide_num": 26,
+    "layout_mode": "assessment_checklist",
+    "title": "Course References & Assessment Review",
+    "category": "Assessment & Close",
+    "subtitle": "Statutory guidance links and 10-question evaluation checklist",
+    "audio_file": "assets/audio/Slide_26_References_Knowledge_Assessment_Walkthro.mp3",
+    "elements": [
+      {
+        "id": "s26_ref",
+        "start_time": 2.0,
+        "end_time": 16.0,
+        "tag": "Statutory Guidance",
+        "heading": "Official References",
+        "description": "• Food Standards Agency (FSA): food.gov.uk\n• Codex Alimentarius Commission\n• UK Regulation (EC) No 852/2004\n• Chartered Institute of Environmental Health (CIEH)",
+        "color": "primary",
+        "food_icon": "assets/images/foods/cheese.png"
+      },
+      {
+        "id": "s26_quiz",
+        "start_time": 16.0,
+        "end_time": 52.0,
+        "tag": "Assessment Ready",
+        "heading": "10-Question Knowledge Checklist",
+        "description": "Q1: HACCP definition • Q2: Preventive aim • Q3: 4 Hazard categories • Q4: Pasteurisation (>72°C/15s) • Q5: Chilling (<8°C) • Q6-Q10: Cross-contamination, 20s handwashing, 14 allergens, ON-HOLD & reporting.",
+        "color": "success",
+        "food_icon": "assets/images/foods/milk.png"
+      },
+      {
+        "id": "s26_close",
+        "start_time": 52.0,
+        "end_time": 72.0,
+        "type": "banner",
+        "heading": "Congratulations on Completing HACCP Level 2 Excellence!",
+        "description": "Thank you for your commitment to upholding world-class food and dairy safety.",
+        "color": "accent"
+      }
+    ],
+    "subtitles": [
+      {
+        "start": 0.1,
+        "end": 1.88,
+        "text": "For further reading and reference,"
+      },
+      {
+        "start": 1.88,
+        "end": 4.57,
+        "text": "you can consult official guidance from the Food Standards"
+      },
+      {
+        "start": 4.57,
+        "end": 8.1,
+        "text": "Agency, the Chartered Institute of Environmental Health,"
+      },
+      {
+        "start": 8.1,
+        "end": 11.13,
+        "text": "GOV.UK, and Codex Alimentarius."
+      },
+      {
+        "start": 12.18,
+        "end": 14.44,
+        "text": "We will now conclude with your HACCP Level Two"
+      },
+      {
+        "start": 14.44,
+        "end": 18.19,
+        "text": "Knowledge Assessment. Please read through the ten questions on"
+      },
+      {
+        "start": 18.19,
+        "end": 21.5,
+        "text": "your assessment sheet carefully: Question One asks for the"
+      },
+      {
+        "start": 21.5,
+        "end": 22.98,
+        "text": "main purpose of HACCP."
+      },
+      {
+        "start": 23.51,
+        "end": 26.24,
+        "text": "Question Two asks which option is NOT a type"
+      },
+      {
+        "start": 26.24,
+        "end": 27.34,
+        "text": "of food hazard."
+      },
+      {
+        "start": 27.93,
+        "end": 32.1,
+        "text": "Question Three tests the required pasteurisation condition for liquid"
+      },
+      {
+        "start": 32.1,
+        "end": 36.29,
+        "text": "milk. Question Four tests the thermal parameters for batch"
+      },
+      {
+        "start": 36.29,
+        "end": 38.24,
+        "text": "dairy and dessert processing."
+      },
+      {
+        "start": 38.83,
+        "end": 42.0,
+        "text": "Question Five checks temperature holding requirements."
+      },
+      {
+        "start": 42.68,
+        "end": 46.73,
+        "text": "Question Six focuses on actions that prevent cross-contamination."
+      },
+      {
+        "start": 47.35,
+        "end": 50.99,
+        "text": "Question Seven asks for good personal hygiene practices."
+      },
+      {
+        "start": 51.61,
+        "end": 54.88,
+        "text": "Question Eight covers what to do if allergen contamination"
+      },
+      {
+        "start": 54.88,
+        "end": 59.15,
+        "text": "is suspected. Question Nine asks who is responsible for"
+      },
+      {
+        "start": 59.15,
+        "end": 62.06,
+        "text": "food safety and allergen control on site."
+      },
+      {
+        "start": 62.68,
+        "end": 65.12,
+        "text": "And Question Ten asks you to list our site"
+      },
+      {
+        "start": 65.12,
+        "end": 67.9,
+        "text": "allergens on the back of your sheet and describe"
+      },
+      {
+        "start": 67.9,
+        "end": 70.39,
+        "text": "what you do to prevent cross-contamination."
+      },
+      {
+        "start": 71.02,
+        "end": 74.18,
+        "text": "Thank you for your dedication to food safety excellence."
+      },
+      {
+        "start": 74.85,
+        "end": 77.25,
+        "text": "Please complete your assessment and hand it to your"
+      },
+      {
+        "start": 77.25,
+        "end": 78.9,
+        "text": "course facilitator."
+      }
+    ]
+  }
+]
