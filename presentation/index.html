@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>HACCP Level 2 Masterclass — Interactive Studio</title>
-  <!-- Google Fonts: Plus Jakarta Sans, Syne, JetBrains Mono -->
+  <!-- Google Fonts: Inter Display & Inter for studio motion graphics typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@500;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Syne:wght@700;800&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -19,26 +19,20 @@
   <!-- 16:9 Presentation Stage Viewport -->
   <main id="viewport">
     <div id="stage">
-      <div class="stage-ambient-glow"></div>
-      <div class="stage-top-bar"></div>
-      <div class="stage-header">
-        <div class="stage-header-badge-row">
-          <span id="stage-category" class="stage-category">HACCP Level 2 Training</span>
-          <span class="stage-industry-pill">Verified UK/EU Food &amp; Dairy Standard</span>
+      <!-- Minimalist Cinema Header: Only active subject context and counter -->
+      <header class="stage-cinema-header">
+        <div class="cinema-header-left">
+          <span id="stage-category" class="cinema-topic">HACCP Level 2</span>
+          <span class="cinema-separator">/</span>
+          <h1 id="stage-title" class="cinema-title">Welcome &amp; Course Overview</h1>
         </div>
-        <div id="stage-title" class="stage-title">Welcome &amp; Course Overview</div>
-        <div id="stage-subtitle" class="stage-subtitle">Essential food safety management standards tailored for food and dairy processing</div>
-      </div>
-      <div id="stage-content" class="stage-content">
-        <!-- Dynamic slide content will be rendered here by app.js -->
-      </div>
-      <div class="stage-footer">
-        <div class="stage-footer-brand">
-          <span class="footer-shield-dot"></span>
-          <span>HACCP Level 2 Food Safety &amp; Dairy Processing Masterclass</span>
-        </div>
-        <div id="stage-counter" class="stage-counter-pill">Slide 01 / 26</div>
-      </div>
+        <div id="stage-counter" class="cinema-timecode">01 / 26</div>
+      </header>
+
+      <!-- Dynamic Motion Canvas -->
+      <div id="stage-content" class="stage-content"></div>
+
+      <!-- Subtitles Overlay -->
       <div id="subtitles-overlay" class="is-hidden"></div>
     </div>
   </main>
@@ -128,9 +122,13 @@
     </div>
   </footer>
 
-  <!-- Scripts: Data -> Motion Graphics -> Renderers -> App Controller -->
+  <!-- Scripts: Data -> Motion Engines -> Scene Router -> App Controller -->
   <script src="slides_data.js"></script>
   <script src="motion-graphics.js"></script>
+  <script src="motion-foundations.js"></script>
+  <script src="motion-principles.js"></script>
+  <script src="motion-hazards.js"></script>
+  <script src="motion-operations.js"></script>
   <script src="renderers.js"></script>
   <script src="app.js"></script>
 </body>

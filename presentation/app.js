@@ -9,31 +9,17 @@ document.addEventListener("DOMContentLoaded", () => {
   let subtitlesEnabled = true;
 
   // DOM Elements
-  const stage = document.getElementById("stage");
-  const viewport = document.getElementById("viewport");
-  const voiceAudio = document.getElementById("voice-audio");
-  const bgAudio = document.getElementById("bg-audio");
-  const playBtn = document.getElementById("play-btn");
-  const prevBtn = document.getElementById("prev-btn");
-  const nextBtn = document.getElementById("next-btn");
-  const slideSelect = document.getElementById("slide-select");
-  const progressFill = document.getElementById("progress-fill");
-  const timeDisplay = document.getElementById("time-display");
-  const exportBtn = document.getElementById("export-btn");
-  const fullscreenBtn = document.getElementById("fullscreen-btn");
-  const musicToggleBtn = document.getElementById("music-toggle-btn");
-  const subtitlesToggleBtn = document.getElementById("subtitles-toggle-btn");
-  const subtitlesOverlay = document.getElementById("subtitles-overlay");
-  const volumeMuteBtn = document.getElementById("volume-mute-btn");
-  const volumeSlider = document.getElementById("volume-slider");
-  const volumeGroup = document.querySelector(".volume-group");
+  const stage = document.getElementById("stage"), viewport = document.getElementById("viewport");
+  const voiceAudio = document.getElementById("voice-audio"), bgAudio = document.getElementById("bg-audio");
+  const playBtn = document.getElementById("play-btn"), prevBtn = document.getElementById("prev-btn"), nextBtn = document.getElementById("next-btn");
+  const slideSelect = document.getElementById("slide-select"), progressFill = document.getElementById("progress-fill"), timeDisplay = document.getElementById("time-display");
+  const exportBtn = document.getElementById("export-btn"), fullscreenBtn = document.getElementById("fullscreen-btn");
+  const musicToggleBtn = document.getElementById("music-toggle-btn"), subtitlesToggleBtn = document.getElementById("subtitles-toggle-btn");
+  const subtitlesOverlay = document.getElementById("subtitles-overlay"), volumeMuteBtn = document.getElementById("volume-mute-btn");
+  const volumeSlider = document.getElementById("volume-slider"), volumeGroup = document.querySelector(".volume-group");
   const audioVisualizer = document.getElementById("audio-visualizer");
-
-  const stageCategory = document.getElementById("stage-category");
-  const stageTitle = document.getElementById("stage-title");
-  const stageSubtitle = document.getElementById("stage-subtitle");
-  const stageContent = document.getElementById("stage-content");
-  const stageCounter = document.getElementById("stage-counter");
+  const stageCategory = document.getElementById("stage-category"), stageTitle = document.getElementById("stage-title");
+  const stageSubtitle = document.getElementById("stage-subtitle"), stageContent = document.getElementById("stage-content"), stageCounter = document.getElementById("stage-counter");
 
   // Populate Dropdown
   slides.forEach((s, idx) => {
@@ -64,8 +50,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (stageCategory) stageCategory.textContent = slide.category;
     if (stageTitle) stageTitle.textContent = slide.title;
-    if (stageSubtitle) stageSubtitle.textContent = slide.subtitle;
-    if (stageCounter) stageCounter.textContent = `Slide ${String(slide.slide_num).padStart(2, "0")} / 26`;
+    if (stageCounter) stageCounter.textContent = `${String(slide.slide_num).padStart(2, "0")} / 26`;
 
     if (stageContent) {
       stageContent.classList.remove("slide-content-transition");
@@ -115,6 +100,34 @@ document.addEventListener("DOMContentLoaded", () => {
 
       if (t >= startTime && t < endTime) el.classList.add("is-active-speaker");
       else el.classList.remove("is-active-speaker");
+    });
+
+    // Dynamic Showtime Explainer Acts (e.g. Slide 11)
+    const explainerActs = stage.querySelectorAll(".explainer-act");
+    if (explainerActs.length > 0) {
+      explainerActs.forEach((act, idx) => {
+        const start = parseFloat(act.getAttribute("data-start"));
+        const end = parseFloat(act.getAttribute("data-end"));
+        const active = (t >= start && t < end) || (idx === explainerActs.length - 1 && t >= start);
+        act.classList.toggle("is-current", active);
+      });
+
+      const pips = stage.querySelectorAll(".step-pip");
+      let activePhase = 1;
+      if (t >= 50.0) activePhase = 4;
+      else if (t >= 25.0) activePhase = 3;
+      else if (t >= 6.0) activePhase = 2;
+      pips.forEach(pip => {
+        const phase = parseInt(pip.getAttribute("data-phase"));
+        pip.classList.toggle("pip-active", phase <= activePhase);
+      });
+    }
+
+    // Dynamic [data-t] cue reveal across all 26 motion scenes
+    const timedElements = stage.querySelectorAll("[data-t]");
+    timedElements.forEach(el => {
+      const cueTime = parseFloat(el.getAttribute("data-t"));
+      el.classList.toggle("is-active", t >= cueTime);
     });
   }
 
@@ -188,17 +201,11 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 
-  prevBtn.addEventListener("click", () => {
-    if (currentSlideIndex > 0) loadSlide(currentSlideIndex - 1);
-  });
-
-  nextBtn.addEventListener("click", () => {
-    if (currentSlideIndex < slides.length - 1) loadSlide(currentSlideIndex + 1);
-  });
-
+  prevBtn.addEventListener("click", () => { if (currentSlideIndex > 0) loadSlide(currentSlideIndex - 1); });
+  nextBtn.addEventListener("click", () => { if (currentSlideIndex < slides.length - 1) loadSlide(currentSlideIndex + 1); });
   slideSelect.addEventListener("change", (e) => loadSlide(parseInt(e.target.value)));
 
-  // Subtitles Toggle — class-based (no text labels)
+  // Subtitles Toggle
   subtitlesToggleBtn.addEventListener("click", () => {
     subtitlesEnabled = !subtitlesEnabled;
     subtitlesToggleBtn.classList.toggle("is-active", subtitlesEnabled);
@@ -206,16 +213,13 @@ document.addEventListener("DOMContentLoaded", () => {
     else checkSynchronization();
   });
 
-  // Background Music Toggle — class-based
+  // Background Music Toggle
   bgAudio.volume = 0.12;
   musicToggleBtn.addEventListener("click", () => {
     bgMusicOn = !bgMusicOn;
     musicToggleBtn.classList.toggle("is-active", bgMusicOn);
-    if (bgMusicOn) {
-      if (isPlaying) bgAudio.play().catch(() => {});
-    } else {
-      bgAudio.pause();
-    }
+    if (bgMusicOn) { if (isPlaying) bgAudio.play().catch(() => {}); }
+    else bgAudio.pause();
   });
 
   // Voice Volume Slider + Mute Button
@@ -237,8 +241,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
   volumeMuteBtn.addEventListener("click", () => {
     if (voiceAudio.muted || voiceAudio.volume === 0) {
-      voiceAudio.muted = false; voiceAudio.volume = lastVolume || 1;
-      volumeSlider.value = voiceAudio.volume;
+      voiceAudio.muted = false; voiceAudio.volume = lastVolume || 1; volumeSlider.value = voiceAudio.volume;
     } else {
       lastVolume = voiceAudio.volume; voiceAudio.muted = true; volumeSlider.value = 0;
     }
@@ -274,9 +277,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Single ZIP Export: Full Course MP4 Video + Verbatim Synchronized SRT
   exportBtn.addEventListener("click", () => {
-    const a = document.createElement("a");
-    a.href = "assets/export/HACCP_Level_2_Masterclass_Complete.zip";
-    a.download = "HACCP_Level_2_Masterclass_Complete.zip";
+    const a = Object.assign(document.createElement("a"), { href: "assets/export/HACCP_Level_2_Masterclass_Complete.zip", download: "HACCP_Level_2_Masterclass_Complete.zip" });
     document.body.appendChild(a); a.click(); document.body.removeChild(a);
   });
 
